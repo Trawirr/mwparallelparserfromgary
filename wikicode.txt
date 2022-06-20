@@ -1,0 +1,882 @@
+{{short description|City in Pomeranian Voivodeship, Poland}}
+{{redirect|Danzig}}
+{{Use dmy dates|date=May 2020}}
+{{Infobox settlement
+|name                   = Gdańsk
+|official_name          =
+|image_skyline          = {{Photomontage|
+|color=#ffffff
+|photo1a= Calle Dlugie Pobrzeze, Gdansk, Polonia, 2013-05-20, DD 06.jpg{{!}}Motława River
+|photo2a= Corte Artus, Gdansk, Polonia, 2013-05-20, DD 03.jpg{{!}}Artus Court
+|photo2b= Gdansk Kosciol mariacki5.jpg{{!}}St. Mary's Church and Main Town Hall
+|photo3a= Gran Armería, Gdansk, Polonia, 2013-05-20, DD 08.jpg{{!}}Mannerist Great Armoury
+|photo3b= 7629vik Gdańsk, fontanna Neptuna. Foto Barbara Maliszewska.jpg{{!}}''Długi Targ'' (Long Market) and Neptune's Fountain
+|photo4a= Politech gda elektrotech automat.jpg{{!}}Gdańsk University of Technology
+|photo4b= Gdansk diabelski mlyn 1.jpg{{!}}Ferris wheel on Granary Island
+|spacing= 2
+|border= 0
+|size= 269
+}}
+|image_caption          = {{hlist|Left to right: [[Motława]] River|[[Artus Court]]|[[St. Mary's Church, Gdańsk|St. Mary's Church]] and [[Gdańsk Town Hall|Main Town Hall]]|[[Mannerism|Mannerist]] Great Armoury|[[Neptune's Fountain, Gdańsk|Neptune's Fountain]]|[[Gdańsk University of Technology]]|[[Ferris wheel]] on [[Islands of Gdańsk|Granary Island]]}}
+|image_flag             = Gdansk flag.svg
+|image_shield           = POL Gdańsk COA.svg
+|motto                  = ''[[Nec temere, nec timide]]'' <br />(Neither rashly, nor timidly)
+|map_caption            = Location of Gdańsk in Poland
+|pushpin_map            = Pomeranian Voivodeship#Poland#Baltic Sea
+|pushpin_label_position = bottom
+|pushpin_relief         = 1
+|coordinates            = {{coord|54|20|53|N|18|39|18|E|region:PL|display=inline,title}}
+|subdivision_type       = [[List of sovereign states|Country]]
+|subdivision_name       = {{POL}}
+|subdivision_type1      = [[Voivodeships of Poland|Voivodeship]]
+|subdivision_type2      = [[List of counties of Poland|County]]
+|subdivision_name1      = {{flag|Pomeranian Voivodeship|name=Pomeranian}}
+|subdivision_name2      = ''city county''
+|established_title      = Established
+|established_date       = 10th century
+|established_title3     = City rights
+|established_date3      = 1263
+|leader_title           = [[Mayor of Gdańsk|Mayor]]
+|leader_name            = [[Aleksandra Dulkiewicz]] ([[Civic Platform|PO]])
+|area_total_km2         = 262
+|population_total       = 470,633 ([[List_of_cities_and_towns_in_Poland|6th]])<ref name="population">{{cite web |url=https://bdl.stat.gov.pl/BDL/dane/teryt/jednostka |title=Local Data Bank |access-date=16 October 2021 |publisher=Statistics Poland |archive-date=22 April 2019 |archive-url=https://web.archive.org/web/20190422210113/https://bdl.stat.gov.pl/BDL/dane/teryt/jednostka |url-status=live }} Data for territorial unit 2261000.</ref>
+|population_as_of       = 16 December 2021
+|population_density_km2 = 1800
+|population_metro       = 1080700
+|postal_code_type       = Postal code
+|postal_code            = 80-008 to 80–958
+|area_code              = +48 58
+ |website                = {{URL|https://www.gdansk.pl/en|gdansk.pl}}
+|timezone               = [[Central European Time|CET]]
+|utc_offset             = +1
+|timezone_DST           = [[Central European Summer Time|CEST]]
+|utc_offset_DST         = +2
+|blank_name             = [[Vehicle registration plates of Poland|Car plates]]
+|blank_info             = GD
+|elevation_max_m        = 180
+}}
+
+'''Gdańsk''' ({{IPAc-en|ɡ|ə|ˈ|d|æ|n|s|k}} {{respell|gə|DANSK}}, <small>also</small> {{IPAc-en|US|ɡ|ə|ˈ|d|ɑː|n|s|k}} {{respell|gə|DAHNSK}};<ref>{{cite web |url=http://www.dictionary.com/browse/gdansk |title=the definition of gdansk |website=Dictionary.com |access-date=18 August 2017 |archive-date=19 August 2017 |archive-url=https://web.archive.org/web/20170819021736/http://www.dictionary.com/browse/gdansk |url-status=live }}</ref> {{IPA-pl|ɡdaɲsk |lang|Pl-Gdańsk.ogg}}; {{lang-de|Danzig}} {{IPA-de|ˈdantsɪç||De-Danzig.ogg}}; {{lang-csb|Gduńsk}};<ref>Stefan Ramułt, ''Słownik języka pomorskiego, czyli kaszubskiego'', Kraków 1893, Gdańsk 2003, ISBN 83-87408-64-6.</ref> {{Lang-la|Gedanum}}, {{Lang-la|Dantiscum|label=none}})<ref>Johann Georg Theodor Grässe, ''Orbis latinus oder Verzeichniss der lateinischen Benennungen der bekanntesten Städte etc., Meere, Seen, Berge und Flüsse in allen Theilen der Erde nebst einem deutsch-lateinischen Register derselben''. T. Ein Supplement zu jedem lateinischen und geographischen Wörterbuche. Dresden: G. Schönfeld’s Buchhandlung (C. A.Werner), 1861, p. 71, 237.</ref> is a city on the [[Baltic Sea|Baltic]] coast of northern [[Poland]]. With a population of 470,805,<ref name="population" /> Gdańsk is the capital and largest city of the [[Pomeranian Voivodeship]] and the most prominent city in the geographical region of [[Pomerania]]. It is Poland's principal [[port|seaport]] and the country's fourth-largest [[metropolitan area]].<ref name="lvhmzm">{{cite web |url=http://world-gazetteer.com/wg.php?x=&men=gcis&lng=en&des=gamelan&geo=-173&srt=npan&col=abcdefghinoq&msz=1500&pt=a&va=&srt=pnan |title=Poland – largest cities (per geographical entity) |publisher=World Gazetteer |access-date=5 May 2009}}{{dead link|date=July 2021|bot=medic}}{{cbignore|bot=medic}}</ref>
+
+The city is situated at the southern edge of [[Gdańsk Bay]], in a [[conurbation]] with the city of [[Gdynia]], the [[resort town]] of [[Sopot]], and suburban communities; these form a metropolitan area called the [[Tricity, Poland|Tricity]] (''Trójmiasto''), with a population of approximately 1.5&nbsp;million.<ref>{{Cite web |url=https://gdansk.stat.gov.pl/vademecum/vademecum_pomorskie/portret_obszaru_metropolitalnego/obszar_metropolitalny_gda%C5%84sk-gdynia-sopot.pdf |title=Archived copy |access-date=17 April 2021 |archive-date=17 April 2021 |archive-url=https://web.archive.org/web/20210417124953/https://gdansk.stat.gov.pl/vademecum/vademecum_pomorskie/portret_obszaru_metropolitalnego/obszar_metropolitalny_gda%C5%84sk-gdynia-sopot.pdf |url-status=live }}</ref> Gdańsk lies at the mouth of the [[Motława]] River, connected to the [[Leniwka]], a branch in the delta of the [[Vistula]] River, which drains 60 percent of Poland and connects Gdańsk with the Polish capital, [[Warsaw]].
+
+The city's history is complex, with periods of Polish, [[Prussia]]n and German rule, and periods of autonomy as a [[City-state|free city-state]]. An important shipbuilding port and trade point since the [[Middle Ages]], in 1361 it became a member of the [[Hanseatic League]] which defined its economic, demographic and [[Gdańsk#Architecture|urban]] landscape for several centuries. From 1918 to 1939, Gdańsk lay in the disputed [[Polish Corridor]] between [[Second Polish Republic|Poland]] and Germany; its ambiguous [[Free City of Danzig|political status]] created [[Causes of World War II#Danzig crisis|tensions]] that culminated in the [[Invasion of Poland]] and the [[Battle of Westerplatte|first clash]] of the [[World War II|Second World War]] at nearby [[Westerplatte]]. The contemporary city was shaped by extensive [[Territorial changes of Poland immediately after World War II|border changes]], [[Flight and expulsion of Germans from Poland during and after World War II|expulsions]] and [[Gdańsk#Population_after_World War II|new settlement]] in or after 1945. In the 1980s, Gdańsk was the birthplace of the [[Solidarity (Polish trade union)|Solidarity]] movement, which played a major role in bringing an end to [[Communism]] in Poland and helped precipitate the collapse of the [[Eastern Bloc]], the [[fall of the Berlin Wall]] and the dissolution of the [[Warsaw Pact]].
+
+Gdańsk is home to the [[University of Gdańsk]], [[Gdańsk University of Technology]], the [[National Museum, Gdańsk|National Museum]], the [[Gdańsk Shakespeare Theatre]], the [[Museum of World War II in Gdańsk|Museum of the Second World War]], the [[Polish Baltic Philharmonic]] and the [[European Solidarity Centre]]. The city also hosts [[St. Dominic's Fair]], which dates back to 1260,<ref>{{cite news |url=https://www.thefirstnews.com/article/saint-dominics-fair-is-760-years-old-14619 |title=Saint Dominic's Fair is 760 years old! |access-date=5 August 2020 |archive-date=29 September 2020 |archive-url=https://web.archive.org/web/20200929035944/https://www.thefirstnews.com/article/saint-dominics-fair-is-760-years-old-14619 |url-status=live }}</ref> and is regarded as one of the biggest trade and cultural events in Europe.<ref>{{cite news |url=https://www.pap.pl/en/news-/news,621550,millions-at-gdansks-st-dominics-fair.html |website=www.pap.pl |title=Millions at Gdansk's St. Dominic's Fair |date=21 August 2016 |access-date=30 December 2016 |others=Article copied to [https://polska.pl/economy/investments-projects/millions-gdansks-st-dominics-fair/ polska.pl]}}</ref> Gdańsk has also topped rankings for the quality of life, safety and living standards worldwide, and its historic city center has been listed as one of Poland's [[List of Historic Monuments (Poland)|national monuments]].<ref>{{cite web |url=https://www.nid.pl/pl/Informacje_ogolne/Zabytki_w_Polsce/Pomniki_historii/Lista_miejsc/ |title=Pomniki historii |date=n.d. |website=nid.pl |publisher=Narodowy Instytut Dziedzictwa |access-date=11 October 2021 |archive-date=11 October 2021 |archive-url=https://web.archive.org/web/20211011072200/https://www.nid.pl/pl/Informacje_ogolne/Zabytki_w_Polsce/Pomniki_historii/Lista_miejsc/ |url-status=dead}}</ref><ref>{{Cite web |url=https://www.numbeo.com/quality-of-life/rankings.jsp |title=Quality of Life Index by City 2019 Mid-Year |website=www.numbeo.com |access-date=20 September 2019 |archive-date=12 June 2019 |archive-url=https://web.archive.org/web/20190612070505/https://www.numbeo.com/quality-of-life/rankings.jsp |url-status=live }}</ref><ref>{{Cite web |url=http://trojmiasto.wyborcza.pl/trojmiasto/7,35612,24341452,gdansk-najlepiej-ocenionym-polskim-miastem-w-miedzynarodowym.html?disableRedirects=true |title=Wyborcza.pl |website=trojmiasto.wyborcza.pl |access-date=20 September 2019 |archive-date=12 March 2020 |archive-url=https://web.archive.org/web/20200312090719/https://trojmiasto.wyborcza.pl/trojmiasto/7,35612,24341452,gdansk-najlepiej-ocenionym-polskim-miastem-w-miedzynarodowym.html?disableRedirects=true |url-status=live }}</ref><ref>{{Cite web |url=https://en.ug.edu.pl/media/aktualnosci/85193/gdansk_high_quality_life_index |title=Gdańsk high in Quality of Life Index |website=en.ug.edu.pl |access-date=20 September 2019 |archive-date=20 September 2019 |archive-url=https://web.archive.org/web/20190920145542/https://en.ug.edu.pl/media/aktualnosci/85193/gdansk_high_quality_life_index |url-status=dead}}</ref>
+
+== Names==
+=== Origin===
+[[File:Johannes Canaparius (Jan Kanapariusz) Gyddanyzc Gdańsk Danzig.jpg|thumb|350px|A manuscript fragment featuring ''gydda<sup>n</sup>yzc'']]
+There are countless theories as to the origin of the city's name, with some being the subject of speculation. It is likely that the name was derived from ''Gdania'', a river presently known as [[Motława]] on which the city is situated.<ref>{{cite book |last=Breza |first=Edward |date=2002 |title=Nazwiska Pomorzan. Pochodzenie i zmiany |volume=2 |url=https://www.google.com.au/books/edition/Nazwiska_Pomorzan/aEQrAQAAIAAJ?hl=en&gbpv=0&bsq=gda%C5%84sk%20gdania%20rzeki%20nazwa |location=Gdańsk |publisher=Wydawnictwo Uniwersytetu Gdańskiego |page=90 |isbn=9788373260573 |oclc=643402493 |access-date=1 November 2021 |archive-date=1 February 2022 |archive-url=https://web.archive.org/web/20220201032225/https://www.google.com.au/books/edition/Nazwiska_Pomorzan/aEQrAQAAIAAJ?hl=en&gbpv=0&bsq=gda%C5%84sk+gdania+rzeki+nazwa |url-status=live }}</ref>
+
+Linguists argue that the name stems from the [[Proto-Slavic language|Proto-Slavic]] [[adjective]]/[[prefix]] ''gъd-'', which meant [[wetness|wet]] or [[moisture|moist]] with the addition of the [[morpheme]] ''[[ń]]''/''ni'' and the [[suffix]] ''-sk''.<ref>{{cite web |url=https://historiagdanska.pl/roznosci/gdansk/ |title=Gdańsk. Skąd wzięła się nazwa miasta |last=Mamok |first=Szymon |date=8 October 2020 |website=Historia Gdańska |publisher= |access-date=31 October 2021 |quote= |archive-date=31 October 2021 |archive-url=https://web.archive.org/web/20211031164243/https://historiagdanska.pl/roznosci/gdansk/ |url-status=live }}</ref> [[Conrad Celtes]] and Johann Uphagen believed that the appellation was given to the settlement by the [[Germanic peoples|Germanic]] [[Goths]].<ref>{{cite book |last=Bömelburg |first=Hans-Jürgen |author-link= |date=2006 |title=Frühneuzeitliche Nationen im östlichen Europa: das Polnische Geschichtsdenken und die Reichweite einer humanistischen Nationalgeschichte |url=https://books.google.com/books?id=P--yU9kOIJ8C&dq=gedonum&pg=PA59 |location= |publisher=Otto Harrassowitz Verlag |page=59 |isbn=3447053704 |access-date=17 November 2021 |archive-date=1 February 2022 |archive-url=https://web.archive.org/web/20220201032231/https://books.google.com/books?id=P--yU9kOIJ8C&dq=gedonum&pg=PA59 |url-status=live }}</ref> Other scholars from the 19th century claimed that the name originated from the expression ''ku Dansk'', which meant "to/towards [[Denmark]]".<ref>{{cite web |url=https://historia.trojmiasto.pl/Skad-wziela-sie-nazwa-Gdansk-Nowa-hipoteza-n122840.html |title=Skąd wzięła się nazwa Gdańsk? Nowa hipoteza |last=Dunajski |first=Ireneusz |date=17 April 2018 |website=trojmiasto.pl |publisher= |access-date=31 October 2021 |quote= |archive-date=31 October 2021 |archive-url=https://web.archive.org/web/20211031164243/https://historia.trojmiasto.pl/Skad-wziela-sie-nazwa-Gdansk-Nowa-hipoteza-n122840.html |url-status=live }}</ref>
+
+=== History===
+The name of the settlement was recorded after [[Adalbert of Prague|St. Adalbert's]] death in AD 997 as ''urbs Gyddanyzc''<ref name=Tighe>{{cite book |first=Carl |last=Tighe |title=Gdańsk: national identity in the Polish-German borderlands |publisher=[[Pluto Press]] |year=1990 |url=https://books.google.com/books?id=MkBpAAAAMAAJ&q=Gyddanyzc |isbn=9780745303468 |access-date=11 February 2016 |archive-date=8 October 2021 |archive-url=https://web.archive.org/web/20211008115634/https://books.google.com/books?id=MkBpAAAAMAAJ&q=Gyddanyzc |url-status=live }}</ref> and it was later written as ''Kdanzk'' in 1148, ''Gdanzc'' in 1188, ''Danceke''<ref>{{cite book |url=https://books.google.com/books?id=VfEeAAAAMAAJ&q=Zwantepolc |first=Marian |last=Gumowski |title=Handbuch der polnischen Siegelkunde |year=1966 |language=de |access-date=11 February 2016 |archive-date=8 October 2021 |archive-url=https://web.archive.org/web/20211008134300/https://books.google.com/books?id=VfEeAAAAMAAJ&q=Zwantepolc |url-status=live }}</ref> in 1228, ''Gdańsk'' in 1236,<ref>Also in 1454, 1468, 1484, and 1590</ref> ''Danzc'' in 1263, ''Danczk'' in 1311,<ref>Also in 1399, 1410, and 1414–1438</ref> ''Danczik'' in 1399,<ref name=Tighe/><ref>Also in 1410, 1414</ref> ''Danczig '' in 1414, ''Gdąnsk'' in 1656. In Polish the modern name of the city is pronounced {{IPA-pl|ɡdaj̃sk||Pl-Gdańsk.ogg}}. In English (where the [[Polish alphabet|diacritic]] over the "n" is frequently omitted) the usual pronunciation is {{IPAc-en|ɡ|ə|ˈ|d|æ|n|s|k}} or {{IPAc-en|ɡ|ə|ˈ|d|ɑː|n|s|k}}. The German name, ''Danzig'', is pronounced {{IPA-de|ˈdantsɪç||De-Danzig.ogg}}.
+
+The city's [[Latin]] name may be given as either ''Gedania'', ''Gedanum'' or ''Dantiscum''; the variety of Latin names reflects the mixed influence of the city's Polish, German and [[Kashubians|Kashubian]] heritage. Other former spellings of the name include ''Dantzig'', ''Dantsic'' and ''Dantzic''.
+
+===Ceremonial names===
+On special occasions the city is also referred to as "The Royal Polish City of Gdańsk" (Polish: ''Królewskie Polskie Miasto Gdańsk'', Latin: ''Regia Civitas Polonica Gedanensis'', Kashubian: ''Królewsczi Polsczi Gard Gduńsk'').<ref>Gdańsk, in: Kazimierz Rymut, ''Nazwy Miast Polski'', [[Ossolineum]], Wrocław 1987</ref><ref>Hubert Gurnowicz, ''Gdańsk'', in: ''Nazwy must Pomorza Gdańskiego'', [[Ossolineum]], Wrocław 1978</ref><ref>''Baedeker's Northern Germany'', [[Baedeker|Karl Baedeker Publishing]], Leipzig 1904</ref> In the [[Kashubian language]] the city is called {{lang|csb|Gduńsk}}. Although some Kashubians may also use the name "Our Capital City Gduńsk" (''Nasz Stoleczny Gard Gduńsk'') or "The Kashubian Capital City Gduńsk" (''Stoleczny Kaszëbsczi Gard Gduńsk''), the cultural and historical connections between the city and the region of [[Kashubia]] are debatable and use of such names rises controversy among Kashubians.
+
+==History==
+{{Main|History of Gdańsk|Timeline of Gdańsk history}}
+
+===Ancient history===
+The oldest evidence found for the existence of a settlement on the lands of what is now Gdańsk comes from the [[Bronze Age]] (which is estimated to be from 2500&ndash;1700 BC). The settlement that is now known as Gdańsk began in the 9th century, being mostly an [[agriculture]] and [[fishing]]-dependent village.<ref>{{cite web |url=https://historia.trojmiasto.pl/historia-gdanska.html |title=Gdańsk na przestrzeni dziejów |last= |first= |date= |website=Trójmiasto.pl Historia |publisher=Trójmiasto |access-date=15 December 2021 |quote= |archive-date=15 December 2021 |archive-url=https://web.archive.org/web/20211215162949/https://historia.trojmiasto.pl/historia-gdanska.html |url-status=live }}</ref><ref>{{cite web |url=http://polskatampabay.com/2018/04/09/gdansk-jedno-z-najstarszych-polskich-miast/ |title=Gdańsk – jedno z najstarszych polskich miast |last=admin |date=9 April 2018 |website=Polska Tampa Bay |publisher= |access-date=15 December 2021 |quote= |archive-date=15 December 2021 |archive-url=https://web.archive.org/web/20211215180000/http://polskatampabay.com/2018/04/09/gdansk-jedno-z-najstarszych-polskich-miast/ |url-status=live }}</ref> In the beginning of the 10th century, it began becoming an important centre for [[trade]] (especially between the [[Pomeranians (tribe)|Pomeranians]]) until its annexation in {{circa}} 975 by [[Mieszko I]].<ref>{{cite web |url=https://www.gedanopedia.pl/gdansk/?title=GDA%C5%83SK_%E2%80%93_POCZ%C4%84TKI_MIASTA |title=GDAŃSK – POCZĄTKI MIASTA |last= |first= |date=25 December 2019 |website=Gedanopedia |publisher=Gdańsk Foundation |access-date=15 December 2021 |quote= |archive-date=9 June 2020 |archive-url=https://web.archive.org/web/20200609183651/https://www.gedanopedia.pl/gdansk/?title=GDA%C5%83SK_%E2%80%93_POCZ%C4%84TKI_MIASTA |url-status=dead}}</ref>
+
+===Early Poland===
+[[File:Brama Zuraw W Gdansku (153003103).jpeg|thumb|The largest medieval port crane in Europe, situated over the river [[Motława]].<ref>{{cite web |url=https://en.nmm.pl/crane/the-crane-past-and-present |title=The Crane: past and present – Crane – National Maritime Museum in Gdańsk |website=en.nmm.pl |access-date=16 April 2019 |archive-date=16 April 2019 |archive-url=https://web.archive.org/web/20190416081538/https://en.nmm.pl/crane/the-crane-past-and-present |url-status=live }}</ref>]]
+The first written record thought to refer to Gdańsk is the ''vita'' of [[Adalbert (Archbishop of Magdeburg)|Saint Adalbert]]. Written in 999, it describes how in 997 Saint [[Adalbert of Prague]] baptised the inhabitants of ''urbs Gyddannyzc'', "which separated the great realm of the duke [i.e. [[Bolesław I Chrobry|Bolesław the Brave]] of Poland] from the sea."<ref name=Loew24>Loew, Peter Oliver: Danzig. Biographie einer Stadt, Munich 2011, p. 24.</ref> No further written sources exist for the 10th and 11th centuries.<ref name=Loew24/> Based on the date in Adalbert's ''vita'', the city celebrated its millennial anniversary in 1997.<ref name=Waznyetal>Wazny, Tomasz; Paner, Henryk; Golebiewski, Andrzej; Koscinski, Bogdan: Early medieval Gdańsk/Danzig revisited (EuroDendro 2004), Rendsburg 2004, [http://www.bfafh.de/eurodendro2004/abstracts_inet.pdf pdf-abstract] {{webarchive |url=https://web.archive.org/web/20130909224137/http://www.bfafh.de/eurodendro2004/abstracts_inet.pdf |date=9 September 2013 }}.</ref>
+
+Archaeological evidence for the origins of the town was retrieved mostly after [[World War II]] had laid 90 percent of the city centre in ruins, enabling excavations.<ref name=LoewWazny>Loew (2011), p. 24; Wazny et al. (2004), [http://www.bfafh.de/eurodendro2004/abstracts_inet.pdf abstract] {{webarchive |url=https://web.archive.org/web/20130909224137/http://www.bfafh.de/eurodendro2004/abstracts_inet.pdf|date=9 September 2013 }}.</ref> The oldest seventeen settlement levels were dated to between 980 and 1308.<ref name=Waznyetal/> It is generally thought that [[Mieszko I of Poland]] erected a stronghold on the site in the 980s, thereby connecting the [[History of Poland (966–1385)|Polish state]] ruled by the [[Piast dynasty]] with the trade routes of the [[Baltic Sea]].<ref name=Hess39>{{cite book |title=Danziger Wohnkultur in der frühen Neuzeit |first=Corina |last=Hess |publisher=LIT Verlag |location=Berlin-Hamburg-Münster |year=2007 |isbn=978-3-8258-8711-7 |page=39}}</ref> Traces of buildings and housing from the 10th century have been found in archaeological excavations of the city.<ref>{{cite web |url=http://archeologia.pl/en/exhibitions/permanent/95-1000-lat-gdanska-w-swietle-wykopalisk |title=1000 LAT GDAŃSKA W ŚWIETLE WYKOPALISK |last=admin2 |access-date=18 March 2017 |archive-date=20 February 2017 |archive-url=https://web.archive.org/web/20170220013801/http://archeologia.pl/en/exhibitions/permanent/95-1000-lat-gdanska-w-swietle-wykopalisk |url-status=live }}</ref>
+
+===Pomeranian Poland===
+[[File: Hala Targowa w Gdańsku podziemia.jpg|thumb|Excavated remains of 12th-century buildings in Gdańsk]]
+The site was ruled as a [[Duke|duchy]] of Poland by the [[Samborides]]. It consisted of a settlement at the modern Long Market, settlements of craftsmen along the ''Old Ditch'', German merchant settlements around ''St Nicholas's'' church and the old Piast stronghold.<ref name=Hess40>{{cite book |title=Danziger Wohnkultur in der frühen Neuzeit |first=Corina |last=Hess |publisher=LIT Verlag |location=Berlin-Hamburg-Münster |year=2007 |isbn=978-3-8258-8711-7 |page=40}}</ref> In 1186, a [[Cistercians|Cistercian]] monastery was set up in nearby [[Oliwa]], which is now within the city limits. In 1215, the ducal stronghold became the centre of a [[Pomeranian duchies and dukes#Duchy of Pomerelia|Pomerelian splinter duchy]]. At that time the area of the later city included various villages. From at least 1224/25 a German market settlement with merchants from [[Lübeck]] existed in the area of today's [[Long Market]].<ref name="ReferenceA">{{cite book |title=Stadtanlage und Befestigung von Danzig (zur Zeit des Deutschen Ordens) |publisher=GRIN Verlag |author=Harlander, Christa |year=2004 |page=2 |isbn=978-3-638-75010-3}}</ref>
+
+In 1224/25, merchants from [[Lübeck]] were invited as ''hospites'' (immigrants with specific privileges) but were soon (in 1238) forced to leave by [[Swantopolk II, Duke of Pomerania|Swantopolk II]] of the Samborides during a war between Swantopolk and the [[Teutonic Knights]], during which Lübeck supported the latter. Migration of merchants to the town resumed in 1257.<ref name="zbierski">{{cite book |title=Struktura zawodowa, spoleczna i etnicza ludnosci. In Historia Gdanska, Vol. 1 |publisher=Wydawnictwo Morskie |author=Zbierski, Andrzej |year=1978 |pages=228–9 |isbn=978-83-86557-00-4}}</ref> Significant German influence did not reappear until the 14th century, after the takeover of the city by the Teutonic Knights.<ref name="turnock">{{cite book |title=The Making of Eastern Europe: From the Earliest Times to 1815 |publisher=Routledge |author=Turnock, David |year=1988 |page=180 |isbn=978-0-415-01267-6}}</ref>
+
+At latest in 1263 [[Pomerelia]]n duke, Swantopolk II. granted city rights under [[Lübeck law]] to the emerging market settlement.<ref name="ReferenceA"/> It was an [[German town law|autonomy charter]] similar to that of Lübeck, which was also the primary origin of many settlers.<ref name=Hess40/> In a document of 1271 the [[Pomerelia]]n duke [[Mestwin II, Duke of Pomerania|Mestwin II]] addressed the Lübeck merchants settled in the city as his loyal citizens from Germany.<ref name="lingenberg">{{cite book |title=Die Anfänge des Klosters Oliva und die Entstehung der deutschen Stadt Danzig: die frühe Geschichte der beiden Gemeinwesen bis 1308/10 |publisher=Klett-Cotta |author=Lingenberg, Heinz |year=1982 |page=292 |isbn=978-3-129-14900-3}}</ref><ref>‘The Slippery Memory of Men’: The Place of Pomerania in the Medieval Kingdom of Poland by Paul Milliman p. 73, 2013</ref>
+
+In 1300, the town had an estimated population of 2,000.<ref name=Hess4041>{{cite book |title=Danziger Wohnkultur in der frühen Neuzeit |first=Corina |last=Hess |publisher=LIT Verlag |location=Berlin-Hamburg-Münster |year=2007 |isbn=978-3-8258-8711-7 |pages=40–41}}</ref> While overall the town was far from an important trade centre at that time, it had some relevance in the trade with [[Eastern Europe]].<ref name=Hess4041/> Low on funds, the Samborides lent the settlement to Brandenburg, although they planned to take the city back and give it to Poland. Poland threatened to intervene, and the Brandenburgians left the town. Subsequently, the city was taken by Danish princes in 1301. The [[Teutonic Knights]] were hired by the Polish nobles to drive out the Danes.
+
+===Teutonic Knights===
+[[File:Gdanskmemorial.jpg|thumb|upright|Monument to defenders of Polish Gdańsk also commemorates the victims of the 1308 massacre carried out by the Teutonic Knights.]]
+{{main|Teutonic takeover of Danzig (Gdańsk)}}
+In 1308, the town was taken by [[Margraviate of Brandenburg|Brandenburg]] and the Teutonic Knights restored order. Subsequently, the Knights took over control of the town. Primary sources record a [[Teutonic takeover of Danzig (Gdańsk)|massacre]] carried out by the Teutonic Knights against the local population,<ref name=Hess41>{{cite book |title=Danziger Wohnkultur in der frühen Neuzeit |first=Corina |last=Hess |publisher=LIT Verlag |location=Berlin-Hamburg-Münster |year=2007 |isbn=978-3-8258-8711-7 |page=41}}</ref> of 10,000 people, but the exact number killed is subject of dispute in modern scholarship.<ref name=Boockmann158>[[Hartmut Boockmann]], ''Ostpreussen und Westpreussen'', Siedler, 2002, p. 158, {{ISBN|3-88680-212-4}}</ref> Some authors accept the number given in the original sources,<ref name="p.376">James Minahan, One Europe, Many Nations: A Historical Dictionary of European National Groups, Greenwood Publishing Group, 2000, {{ISBN|0-313-30984-1}}, [https://books.google.com/books?id=NwvoM-ZFoAgC&pg=PA376&dq=1308+Gdansk+massacre&as_brr=3&ei=cilQSPHSMom2iwGE8JU0&sig=OR_a7-g10jIZsYOJGkmBe5ZwfSY p. 376 Google Books] {{Webarchive|url=https://web.archive.org/web/20201102110148/https://books.google.com/books?id=NwvoM-ZFoAgC&pg=PA376&dq=1308+Gdansk+massacre&as_brr=3&ei=cilQSPHSMom2iwGE8JU0&sig=OR_a7-g10jIZsYOJGkmBe5ZwfSY |date=2 November 2020 }}</ref> while others consider 10,000 to have been a medieval exaggeration, although scholarly consensus is that a massacre of some magnitude did take place.<ref name=Boockmann158/> The events were used by the Polish crown to condemn the Teutonic Knights in a subsequent papal lawsuit.<ref name=Boockmann158/><ref name="Thomas Urban">[[Thomas Urban]]: "[http://www.thomas-urban.pl/gdansk.php Rezydencja książąt Pomorskich]". {{in lang|pl}} {{webarchive |url=https://web.archive.org/web/20050825225724/http://www.thomas-urban.pl/gdansk.php |date=25 August 2005 }}</ref>
+
+The knights colonised the area, replacing local [[Kashubians]] and Poles with German settlers.<ref name="p.376"/> In 1308, they founded ''Osiek'' ''Hakelwerk'' near the town, initially as a Slavic fishing settlement.<ref name=Hess41/> In 1340, the Teutonic Knights constructed a large fortress, which became the seat of the knights' [[Komtur]].<ref name=Hess4142>{{cite book |title=Danziger Wohnkultur in der frühen Neuzeit |first=Corina |last=Hess |publisher=LIT Verlag |location=Berlin-Hamburg-Münster |year=2007 |isbn=978-3-8258-8711-7 |pages=41–42}}</ref> In 1346 they changed the Town Law of the city, which then consisted only of the ''[[Rechtstadt]]'', to [[Kulm law]].<ref name=frankot>{{cite book |title='Of Laws of Ships and Shipmen': Medieval Maritime Law and its Practice in Urban Northern Europe |first=Edda |last=Frankot |publisher=Edinburgh University Press |location=Edinburgh |year=2012 |isbn=978-0-7486-4624-1 |page=100}}</ref> In 1358, Danzig joined the [[Hanseatic League]], and became an active member in 1361.<ref name=Hess42>{{cite book |title=Danziger Wohnkultur in der frühen Neuzeit |first=Corina |last=Hess |publisher=LIT Verlag |location=Berlin-Hamburg-Münster |year=2007 |isbn=978-3-8258-8711-7 |page=42}}</ref> It maintained relations with the trade centres [[Bruges]], [[Veliky Novgorod|Novgorod]], [[Lisbon|Lisboa]] and [[Seville|Sevilla]].<ref name=Hess42/> Around 1377, the [[Old Town (Gdańsk)|Old Town]] was equipped with city rights as well.<ref name=Loew>{{cite book |title=Danzig: Biographie einer Stadt |first=Peter O. |last=Loew |publisher=C.H.Beck |location=München |year=2011 |isbn=978-3-406-60587-1 |page=43}}</ref> In 1380, the ''New Town'' was founded as the third, independent settlement.<ref name=Hess41/>
+
+After a series of [[Polish–Teutonic War|Polish-Teutonic Wars]], in the [[Treaty of Kalisz (1343)]] the Order had to acknowledge that it would hold Pomerelia as a [[fief]] from the [[Crown of the Kingdom of Poland|Polish Crown]]. Although it left the legal basis of the Order's possession of the province in some doubt, the city thrived as a result of increased exports of grain (especially wheat), timber, potash, tar, and other goods of forestry from Prussia and Poland via the [[Vistula]] River [[trade route|trading routes]], although after its capture, the Teutonic Knights tried to actively reduce the economic significance of the town. While under the control of [[Teutonic Knights|the Teutonic Order]] German migration increased. The Order's religious networks helped to develop Danzig's literary culture.<ref>{{cite book |last1=Sobecki |first1=Sebastian |title=Danzig |journal=Europe: A Literary History, 1348–1418, ed. David Wallace |date=2016 |pages=635–41 |url=https://global.oup.com/academic/product/europe-9780198735359?cc=nl&lang=en& |isbn=9780198735359 |publisher=Oxford University Press |access-date=2 June 2016 |archive-date=20 December 2016 |archive-url=https://web.archive.org/web/20161220183041/https://global.oup.com/academic/product/europe-9780198735359?cc=nl&lang=en& |url-status=live }}</ref> A new war broke out in 1409, culminating in the [[Battle of Grunwald]] (1410), and the city came under the control of the [[Poland during the Jagiellon dynasty|Kingdom of Poland]]. A year later, with the [[Peace of Thorn (1411)|First Peace of Thorn]], it returned to the Teutonic Order.<ref>{{cite web |url=http://www.mgdansk.pl/ii-pokoj-torunski-i-przylaczenie-gdanska-do-rzeczpospolitej,10.html |title=II Pokój Toruński i przyłączenie Gdańska do Rzeczpospolitej |work=mgdansk.pl |access-date=16 September 2014 |archive-date=19 October 2014 |archive-url=https://web.archive.org/web/20141019234200/http://www.mgdansk.pl/ii-pokoj-torunski-i-przylaczenie-gdanska-do-rzeczpospolitej,10.html |url-status=live }}</ref>
+
+===Kingdom of Poland===
+[[File:Allegory of Gdańsk trade.jpg|thumb|right|upright|''[[Apotheosis]] of Gdańsk'' by Izaak van den Blocke. The [[Vistula]]-borne trade of goods in Poland was the main source of prosperity during the city's Golden Age.]]
+
+In 1440, the city participated in the foundation of the [[Prussian Confederation]] which was an organisation opposed to the rule of the Teutonic Knights. The organisation in its complaint of 1453 mentioned repeated cases in which the Teutonic Knights imprisoned or murdered local patricians and mayors without a court verdict.<ref>Karol Górski, ''Związek Pruski i poddanie się Prus Polsce: zbiór tekstów źródłowych'', Instytut Zachodni, Poznań, 1949, pp. 16, 18 (in Polish)</ref> Upon the request of the organisation King [[Casimir IV Jagiellon|Casimir IV of Poland]] reincorporated the territory to the [[Kingdom of Poland (1385–1569)|Kingdom of Poland]] in 1454.<ref>Górski, pp. 51, 56</ref> This led to the [[Thirteen Years' War (1454–1466)|Thirteen Years' War]] between Poland and the [[State of the Teutonic Order]] (1454–1466). Since 1454, the city was authorized by the King to mint Polish coins.<ref>Górski, p. 63</ref> The local mayor pledged allegiance to the King during the incorporation in March 1454 in [[Kraków]],<ref>Górski, pp. 71-72</ref> and the city again solemnly pledged allegiance to the King in June 1454 in [[Elbląg]], recognizing the prior Teutonic annexation and rule as unlawful.<ref>Górski, pp. 79-80</ref> On 25 May 1457 the city gained its rights as an autonomous city.<ref>{{Cite web |url=http://www.geocities.com/CapitolHill/Rotunda/2209/Gdańsk.html |title=Danzig – Gdańsk until 1920}}{{Dead link|date=April 2021|bot=InternetArchiveBot|fix-attempted=yes }}</ref>
+
+On 15 May 1457, [[Casimir IV Jagiellon|Casimir IV of Poland]] granted the town the ''Great Privilege'', after he had been invited by the town's council and had already stayed in town for five weeks.<ref name=Hess45>{{cite book |title=Danziger Wohnkultur in der frühen Neuzeit |first=Corina |last=Hess |publisher=LIT Verlag |location=Berlin-Hamburg-Münster |year=2007 |isbn=978-3-8258-8711-7 |page=45}}</ref> With the ''Great Privilege'', the town was granted full autonomy and protection by the King of Poland.<ref name=Hess45A>{{cite book |title=Danziger Wohnkultur in der frühen Neuzeit |first=Corina |last=Hess |publisher=LIT Verlag |location=Berlin-Hamburg-Münster |year=2007 |isbn=978-3-8258-8711-7 |page=45}}: "Geben wir und verlehen unnsir Stadt Danczk das sie zcu ewigen geczeiten nymands for eynem herrn halden noc gehorsam zcu weszen seyn sullen in weltlichen sachen."</ref> The privilege removed tariffs and taxes on trade within Poland, Lithuania and Ruthenia (present day Belarus and Ukraine) and conferred on the town independent jurisdiction, legislation and administration of her territory, as well as the right to mint its own coin.<ref name=Hess45/> Furthermore, the privilege united ''Old Town'', ''Osiek'' and ''Main Town'', and legalised the demolition of ''New Town'', which had sided with the [[Teutonic Knights]].<ref name=Hess45/> By 1457, ''New Town'' was demolished completely, no buildings remained.<ref name=Hess41/>
+
+Gaining free and privileged access to Polish markets, the seaport prospered while simultaneously trading with the other Hanseatic cities. After the [[Second Peace of Thorn (1466)]] between Poland and the Teutonic Order the warfare ended permanently. After the [[Union of Lublin]] between Poland and Lithuania in 1569 the city continued to enjoy a large degree of internal autonomy (cf. [[Danzig law]]). Being the largest and one of the most influential cities of Poland, it enjoyed voting rights during the [[Royal elections in Poland|royal election]] period in Poland.
+
+[[File:Brama Zielona Gdańsk.jpg|thumb|The [[Green Gate]], inspired by the [[Antwerp City Hall]],<ref>{{cite book |authors=Juliette Roding, Lex Heerma van Voss |title=The North Sea and culture (1550–1800): proceedings of the international conference held at Leiden 21–22 April 1995 |year=1996 |page=103 |publisher=Uitgeverij Verloren |isbn=978-90-6550-527-9 |url=https://books.google.com/books?id=XeDxJ0g5AokC |access-date=29 October 2015 |archive-date=1 February 2022 |archive-url=https://web.archive.org/web/20220201032224/https://books.google.com/books?id=XeDxJ0g5AokC |url-status=live }}</ref> was built to serve as the formal residence of the [[List of Polish monarchs|Polish kings]].<ref>{{cite web |url=http://miasta.gazeta.pl/trojmiasto/1,49422,3928314.html |title=Zielona Brama w Gdańsku |work=wilanowmiasta.gazeta.pl |date=18 February 2007 |access-date=29 December 2008 |language=pl |url-status=dead |archive-url=https://web.archive.org/web/20071229054623/http://miasta.gazeta.pl/trojmiasto/1%2C49422%2C3928314.html |archive-date=29 December 2007}}</ref>]]
+In 1569 a [[Vistula delta Mennonites|Mennonite Church]] was founded here.
+
+In the 1575 election of a king to the Polish throne, Danzig supported [[Maximilian II, Holy Roman Emperor|Maximilian II]] in his struggle against [[Stephen Báthory of Poland|Stephen Báthory]]. It was the latter who eventually became monarch but the city, encouraged by the secret support of [[Denmark]] and [[Maximilian I, Holy Roman Emperor|Emperor Maximilian]], shut its gates against Stephen. After the [[Siege of Danzig (1577)]], lasting six months, the city's army of 5,000 mercenaries was utterly defeated in a field battle on 16 December 1577. However, since Stephen's armies were unable to take the city by force, a compromise was reached: [[Stephen Báthory of Poland|Stephen Báthory]] confirmed the city's special status and her [[Danzig law]] privileges granted by earlier [[List of Polish monarchs|Polish kings]]. The city recognised him as ruler of Poland and paid the enormous sum of 200,000 [[Guilder|guldens]] in gold as payoff ("apology").
+
+During the [[Polish–Swedish War (1626–1629)|Polish–Swedish War of 1626–1629]], in 1627, the naval [[Battle of Oliwa]] was fought near the city, and it is considered one of the greatest victories in the history of the [[Polish Navy]]. During the Swedish invasion of Poland of 1655–1660, commonly known as the [[Deluge (history)|Deluge]], the city was unsuccessfully [[Siege of Danzig (1655–1660)|besieged by Sweden]]. In 1660, the war was ended with the [[Treaty of Oliwa]], signed in the present-day district of [[Oliwa]].
+
+Around 1640, [[Johannes Hevelius]] established his [[:pl:Obserwatorium Astronomiczne Jana Heweliusza w Gdańsku|astronomical observatory]] in the [[Old Town (Gdańsk)|Old Town]]. Polish King [[John III Sobieski]] regularly visited Hevelius numerous times.
+
+Beside a majority of German-speakers,<ref name=Zamoyski>{{cite book |last=Zamoyski |first=Adam |year=2015 |title=Poland. A History |publisher=William Collins |isbn=978-0007556212 |pages=26, 92}}</ref> whose elites sometimes distinguished their German dialect as [[Pomerelia]]n,<ref>Bömelburg, Hans-Jürgen, ''Zwischen polnischer Ständegesellschaft und preußischem Obrigkeitsstaat: vom Königlichen Preußen zu Westpreußen (1756–1806)'', München: Oldenbourg, 1995, (Schriften des Bundesinstituts für Ostdeutsche Kultur und Geschichte (Oldenburg); 5), zugl.: Mainz, Johannes Gutenberg-Univ., Diss., 1993, p. 549</ref> the city was home to a large number of Polish-speaking Poles, Jewish Poles, [[Latvian language|Latvian speaking]] [[Kursenieki]], [[Southern Netherlands|Flemings]] and [[Dutch people|Dutch]]. In addition, a number of [[Scottish people|Scots]] took refuge or migrated to and received citizenship in the city. During the [[Protestant Reformation]], most German-speaking inhabitants adopted [[Lutheranism]]. Due to the special status of the city and significance within the [[Polish–Lithuanian Commonwealth]], the city inhabitants largely became bi-cultural sharing both Polish and German culture and were strongly attached to the traditions of the Polish–Lithuanian Commonwealth.<ref name=Chwalba>Historia Polski 1795–1815 [[Andrzej Chwalba]] Kraków 2000, p. 441</ref>
+
+The city suffered a [[The plague during the Great Northern War|last great plague]] and a slow economic decline due to the wars of the 18th century. As a stronghold of [[Stanisław Leszczyński]]'s supporters during the [[War of the Polish Succession]], it was taken by the [[Russian Empire|Russians]] after the [[Siege of Danzig (1734)|Siege of Danzig]] in 1734.
+
+[[File:Ayuntamiento Principal, Gdansk, Polonia, 2013-05-20, DD 07.jpg|thumb|right|230px|[[Gdańsk Town Hall]], with its 83-metre spire, is one of the city's main landmarks.]]
+
+The [[Danzig Research Society]] founded in 1743 was one of the first of its kind.
+
+===Prussia and Germany===
+Danzig was annexed by the [[Kingdom of Prussia]] in 1793,<ref name="lonelyplanet.com">{{cite web |url=http://www.lonelyplanet.com/poland/pomerania/gdansk/history |title=History of Gdańsk – Lonely Planet Travel Information |first=Lonely |last=Planet |work=lonelyplanet.com |access-date=29 July 2016 |archive-date=21 August 2016 |archive-url=https://web.archive.org/web/20160821171335/http://www.lonelyplanet.com/poland/pomerania/gdansk/history |url-status=live }}</ref> in the [[Second Partition of Poland]]. Both the Polish and the German-speaking population largely opposed the Prussian annexation and wished the city to remain part of Poland.<ref>Górski, p. XVI</ref> The mayor of the city stepped down from his office due to the annexation,<ref>Andrzej Januszajtis, ''Karol Fryderyk von Conradi'', "Nasz Gdańsk", 11 (196)/2017, p. 3 (in Polish)</ref> and also notable city councilor Jan (Johann) Uphagen, historian and art collector, whose [[Baroque in Poland|Baroque]] house is now a [[Uphagen's House|museum]], resigned as a sign of protest against the annexation.<ref>{{Cite web |url=https://www.gait.pl/patron-cpt/jan-uphagen/ |title=Jan Uphagen |website=Gdańskie Autobusy i Tramwaje |access-date=1 April 2020 |language=pl |archive-date=19 February 2019 |archive-url=https://web.archive.org/web/20190219130048/https://www.gait.pl/patron-cpt/jan-uphagen/ |url-status=dead}}</ref> An attempted student uprising against Prussia led by {{Interlanguage link multi|Gottfried Benjamin Bartholdi|de}} was crushed quickly by the authorities in 1797.<ref>''Dzieje Gdańska'' Edmund Cieślak, Czesław Biernat Wydawn. Morskie, 1969 p. 370</ref><ref>''Dzieje Polski w datach Jerzy Borowiec'', Halina Niemiec p. 161</ref><ref>''Polska, losy państwa i narodu'' Henryk Samsonowicz 1992 Iskry p. 282</ref>
+
+During the [[Napoleonic Wars]], in 1807, the city was [[Siege of Danzig (1807)|besieged and captured]] by a coalition of [[First French Empire|French]], [[Polish Legions (Napoleonic period)|Polish]], [[Kingdom of Italy (Napoleonic)|Italian]], [[Kingdom of Saxony|Saxon]] and [[Grand Duchy of Baden|Baden]] forces. Afterwards, it was a [[Free City of Danzig (Napoleonic)|free city]] from 1807 to 1814, when it was [[Siege of Danzig (1813)|captured]] by combined Prussian-Russian forces.
+
+In 1815, after France's defeat in the [[Napoleonic Wars]], it again became part of Prussia<ref name="lonelyplanet.com"/> and became the capital of {{lang|de|[[Danzig (region)|Regierungsbezirk Danzig]]}} within the province of [[West Prussia]]. The city's longest serving president was Robert von Blumenthal, who held office from 1841, through the [[Revolutions of 1848 in the German states|revolutions of 1848]], until 1863. With the [[unification of Germany]] in 1871 under Prussian [[hegemony]], the city became part of the [[German Empire]] and remained so until 1919, after Germany's defeat in [[World War&nbsp;I]].
+
+===Inter-war years and World War II===
+{{main|Free City of Danzig}}
+[[File:Danzig Partie am Krahnthor (1890-1900).jpg|thumb|230px|Colorized photo, c. 1900, showing prewar roof of the ''Krantor'' crane (''Brama Żuraw'').]]
+
+When Poland regained its independence after [[World War I]] with access to the sea as promised by the [[Allies of World War I|Allies]] on the basis of [[Woodrow Wilson]]'s "[[Fourteen Points]]" (point 13 called for "an independent Polish state", "which should be assured a free and secure access to the sea"), the Poles hoped the city's harbour would also become part of Poland.
+
+However, in the end – since Germans formed a majority in the city, with Poles being a minority (in the 1923 census 7,896 people out of 335,921 gave Polish, Kashubian or [[Masurian dialect|Masurian]] as their native language)<ref>{{cite book |title=Ergebnisse der Volks- und Berufszählung vom 1. November 1923 in der Freien Stadt Danzig |publisher=Verlag des Statistischen Landesamtes der Freien Stadt Danzig |year=1926 |language=de}}. Polish estimates of the Polish minority during the interwar era, however, range from 37,000 to 100,000 (9%–34%). Studia historica Slavo-Germanica, Tomy 18–20page 220 Uniwersytet Adama Mickiewicza w Poznaniu. Instytut Historii Wydawnictwo Naukowe imienia. Adama Mickiewicza, 1994.</ref> – the city was not placed under Polish sovereignty. Instead, in accordance with the terms of the [[Treaty of Versailles|Versailles Treaty]], it became the [[Free City of Danzig]], an independent quasi-state under the auspices of the [[League of Nations]] with its external affairs largely under Polish control – without, however, any public vote to legitimize Germany's loss of the city.<ref name="auto">Maria Wardzyńska, ''Był rok 1939. Operacja niemieckiej policji bezpieczeństwa w Polsce. Intelligenzaktion'', [[Institute of National Remembrance|IPN]], Warszawa, 2009, pp. 36-37 (in Polish)</ref>
+
+Poland's rights also included free use of the harbour, a Polish post office, a Polish garrison in Westerplatte district, and customs union with Poland. The Free City had its own constitution, [[national anthem]], [[Volkstag|parliament]], and government ({{lang|de|Senat}}). It issued its own stamps as well as its currency, the [[Danzig gulden]].
+
+[[File:Danzig NARA-68155011.jpg|thumb|An aerial view of the historic city centre around 1920]]
+[[File:Mapa miasta Danzig - lata 20. XX w.png|thumb|A 1920s map of the city]]
+With the growth of [[Nazism]] among Germans, [[anti-Polish sentiment]] increased and both [[Germanisation]] and [[Racial segregation|segregation]] policies intensified, in the 1930s the rights of local Poles were commonly violated and limited by the local administration.<ref>Wardzyńska, p. 37</ref> Polish children were refused admission to public Polish-language schools, premises were not allowed to be rented to Polish schools and preschools.<ref name=mw40>Wardzyńska, p. 40</ref> Due to such policies, only 8 Polish-language public schools existed in the city, and Poles managed to organize 7 more private Polish schools.<ref name=mw40/>
+
+In 1937, Poles who sent their children to private Polish schools were demanded to transfer children to German schools, under threat of police intervention, and attacks were carried out on Polish schools and Polish youth.<ref name=mw40/> German militias carried out numerous beatings of Polish activists, scouts and even mailmen, as "punishment" for distributing the Polish press.<ref name=mw41>Wardzyńska, p. 41</ref> German students attacked and expelled Polish students from the technical university.<ref name=mw41/> Dozens of Polish surnames were forcibly Germanized,<ref name=mw41/> while Polish symbols that reminded that for centuries Gdańsk was part of Poland were removed from the city's landmarks, such as the [[Artus Court]] and the [[Neptune's Fountain, Gdańsk|Neptune's Fountain]].<ref name=mw42>Wardzyńska, p. 42</ref>
+
+From 1937, the employment of Poles by German companies was prohibited, and already employed Poles were fired, the use of Polish in public places was banned and Poles were not allowed to enter several restaurants, in particular those owned by Germans.<ref name=mw42/> In 1939, before the German [[invasion of Poland]] and outbreak of [[World War II]], local Polish railwaymen were victims of beatings, and after the invasion, they were also imprisoned and murdered in [[Nazi concentration camps|concentration camps]].<ref>Wardzyńska, pp. 39-40, 85</ref>
+
+In the early 1930s, the local [[Nazi Party]] capitalised on pro-German sentiments and in 1933 garnered 50% of vote in the parliament. Thereafter, the Nazis under [[Gauleiter]] [[Albert Forster]] achieved dominance in the city government, which was still nominally overseen by the League of Nations' [[High Commissioner]]. [[NSDAP|The German government]] officially demanded the return of Danzig to Germany along with an extraterritorial (meaning under German [[jurisdiction]]) highway through the area of the [[Polish Corridor]] for land-based access from the rest of Germany. Hitler used the issue of the status of the city as a pretext for attacking Poland and in May 1939, during a high-level meeting of German military officials explained to them: "It is not Danzig that is at stake. For us it is a matter of expanding our [[Lebensraum]] in the east", adding that there will be no repeat of the Czech situation, and Germany will attack Poland at first opportunity, after isolating the country from its Western Allies.<ref>''The history of the German resistance, 1933–1945'' Peter Hoffmann p. 37 McGill-Queen's University Press 1996</ref><ref>''Hitler'' Joachim C. Fest p. 586 Houghton Mifflin Harcourt, 2002</ref><ref>''Blitzkrieg w Polsce wrzesien 1939'' Richard Hargreaves p. 84 Bellona, 2009</ref><ref>''A military history of Germany, from the eighteenth century to the present day''Martin Kitchen p. 305 Weidenfeld and Nicolson, 1975</ref><ref>International history of the twentieth century and beyond Antony Best p. 181 Routledge; 2 edition (30 July 2008)</ref>
+
+After the German proposals to solve the three main issues peacefully were refused, German-Polish relations rapidly deteriorated. Germany [[Invasion of Poland|attacked Poland]] on 1 September after having signed [[Molotov–Ribbentrop Pact|a non-aggression pact]] with the Soviet Union (which included a Secret Part regarding the division of Poland and the Baltic States between the two countries) in late August and after postponing the attack three times.
+
+[[File:The Nazi-soviet Invasion of Poland, 1939 HU106374.jpg|thumb|The German battleship [[SMS Schleswig-Holstein]] firing at the Polish Military Transit Depot during the [[battle of Westerplatte]] in September 1939]]
+The German attack began in Danzig, with a bombardment of Polish positions at [[Westerplatte]] by the German battleship {{SMS|Schleswig-Holstein||2}}, and the landing of German infantry on the peninsula. Outnumbered Polish defenders at Westerplatte [[Battle of Westerplatte|resisted]] for seven days before running out of ammunition. Meanwhile, after a fierce day-long [[Defence of the Polish Post Office in Danzig|fight]] (1 September 1939), defenders of the Polish Post office were tried and executed then buried on the spot in the Danzig quarter of [[Zaspa]] in October 1939. In 1998 a German court overturned their conviction and sentence.
+
+[[File:Arrested defendants of the Polish Post Office in Gdansk.jpg|thumb|Captured [[Defence of the Polish Post Office in Danzig|Polish defenders of the Polish Post Office]] in Danzig shortly before their trial and execution by the [[Wehrmacht]].]]
+The city was officially annexed by [[Nazi Germany]] and incorporated into the [[Reichsgau Danzig-West Prussia]]. About 50 percent of members of the [[History of the Jews in Gdańsk|Jewish community]] had left the city within a year after a [[pogrom]] in October 1937,<ref name=JVL>{{cite web |url=https://www.jewishvirtuallibrary.org/jsource/judaica/ejud_0002_0007_0_07105.html |title=Gdansk |access-date=18 March 2017 |archive-date=13 January 2017 |archive-url=https://web.archive.org/web/20170113051709/https://www.jewishvirtuallibrary.org/jsource/judaica/ejud_0002_0007_0_07105.html |url-status=live }}</ref> after the [[Kristallnacht]] riots in November 1938 the community decided to organize its emigration<ref name=Bauer>{{cite book |url=https://books.google.com/books?id=WOd3rLul-LcC&q=jewish+danzig&pg=PA145 |title=American Jewry and the Holocaust |first1=Yehuda |last1=Bauer |publisher=Wayne State University Press |year=1981 |isbn=978-0-8143-1672-6 |page=145 |access-date=11 February 2016 |archive-date=1 February 2022 |archive-url=https://web.archive.org/web/20220201032226/https://books.google.com/books?id=WOd3rLul-LcC&q=jewish+danzig&pg=PA145 |url-status=live }}</ref> and in March 1939 a first transport to [[Mandatory Palestine|Palestine]] started.<ref name=shoa>{{cite web |url=http://www.shoa.de/holocaust/deportations-und-vernichtungspraxis/763.html |website=www.shoa.de |language=de |archive-url=https://web.archive.org/web/20110629204011/http://www.shoa.de/holocaust/deportations-und-vernichtungspraxis/763.html |archive-date=29 June 2011 |title=Die "Lösung der Judenfrage" in der Freien Stadt Danzig |date=30 November 2018}}</ref> By September 1939 barely 1,700 mostly elderly Jews remained. In early 1941, just 600 Jews were still living in Danzig, most of whom were later murdered in the [[Holocaust]].<ref name=JVL/><ref>{{cite web |url=https://www.jewishgen.org/yizkor/pinkas_poland/pol6_00033.html |title=Gdansk, Poland |work=jewishgen.org |access-date=27 January 2018 |archive-date=28 January 2018 |archive-url=https://web.archive.org/web/20180128021208/https://www.jewishgen.org/yizkor/pinkas_poland/pol6_00033.html |url-status=live }}</ref>
+
+Out of the 2,938 [[Kehilla (modern)|Jewish community]] in the city 1,227 were able to escape from the Nazis before the outbreak of war.<ref>''Żydzi na terenie Wolnego Miasta Gdańska w latach 1920–1945:działalność kulturalna, polityczna i socjalna''Grzegorz Berendt Gdańskie Tow. Nauk., Wydz. I Nauk Społecznych i Humanistycznych, 1997 p. 245</ref>{{Dubious|date=August 2010}} [[Gestapo|Nazi secret police]] had been observing Polish minority communities in the city since 1936, compiling information, which in 1939 served to prepare lists of Poles to be captured in [[Operation Tannenberg]]. On the first day of the war, approximately 1,500 [[Poles|ethnic Poles]] were arrested, some because of their participation in social and economic life, others because they were activists and members of various Polish organisations. On 2 September 1939, 150 of them were deported to the [[Stutthof concentration camp|Sicherheitsdienst camp Stutthof]] some {{cvt|30|mi|km|-1|order=flip}} from Danzig, and murdered.<ref>[http://www.kki.net.pl/~museum/museums.htm Museums Stutthof in Sztutowo]. Retrieved 31 January 2007. {{webarchive |url=https://web.archive.org/web/20050824163259/http://www.kki.net.pl/~museum/museums.htm |date=24 August 2005 }}</ref> Many Poles living in Danzig were deported to Stutthof or executed in the [[Piaśnica]] forest.
+
+During the war, the Germans operated a Nazi prison in the city,<ref>{{cite web |url=https://www.bundesarchiv.de/zwangsarbeit/haftstaetten/index.php?action=2.2&tab=7&id=1516 |title=Schweres NS-Gefängnis Danzig, Neugarten 27 |website=Bundesarchiv.de |access-date=18 September 2021 |language=de |archive-date=18 September 2021 |archive-url=https://web.archive.org/web/20210918124617/https://www.bundesarchiv.de/zwangsarbeit/haftstaetten/index.php?action=2.2&tab=7&id=1516 |url-status=live }}</ref> an ''[[Einsatzgruppen]]''-operated penal camp,<ref>{{cite web |url=https://www.bundesarchiv.de/zwangsarbeit/haftstaetten/index.php?action=2.2&tab=7&id=1515 |title=Einsatzgruppen-Straflager in der Danziger Holzgasse |website=Bundesarchiv.de |access-date=18 September 2021 |language=de |archive-date=18 September 2021 |archive-url=https://web.archive.org/web/20210918124616/https://www.bundesarchiv.de/zwangsarbeit/haftstaetten/index.php?action=2.2&tab=7&id=1515 |url-status=live }}</ref> a camp for [[Romani people]],<ref>{{cite web |url=https://www.bundesarchiv.de/zwangsarbeit/haftstaetten/index.php?action=2.2&tab=7&id=1018 |title=Zigeunerlager Danzig |website=Bundesarchiv.de |access-date=18 September 2021 |language=de |archive-date=18 September 2021 |archive-url=https://web.archive.org/web/20210918124615/https://www.bundesarchiv.de/zwangsarbeit/haftstaetten/index.php?action=2.2&tab=7&id=1018 |url-status=live }}</ref> and several subcamps of the [[Stutthof concentration camp]] within the present-day city limits.<ref>{{cite journal |last=Gliński |first=Mirosław |title=Podobozy i większe komanda zewnętrzne obozu Stutthof (1939–1945) |journal=Stutthof. Zeszyty Muzeum |language=pl |volume=3 |pages=165, 167–168, 175–176, 179 |issn=0137-5377}}</ref>
+
+In 1941, [[Hitler]] ordered the [[Operation Barbarossa|invasion of the Soviet Union]], eventually causing the fortunes of war to turn against Germany. As the [[Red Army|Soviet Army]] advanced in 1944, German populations in [[Central Europe|Central]] and Eastern Europe took flight, resulting in the beginning of a great population shift. After the [[East Pomeranian Offensive|final Soviet offensives]] began in January 1945, hundreds of thousands of German refugees converged on Danzig, many of whom had fled on foot from [[East Prussia]], some tried to escape through the city's port in a large-scale evacuation involving hundreds of German cargo and passenger ships. Some of the ships were sunk by the Soviets, including the {{MV|Wilhelm Gustloff||2}} after an evacuation was attempted at neighbouring [[Gdynia]]. In the process, tens of thousands of refugees were killed.
+
+The city also endured heavy Allied and Soviet air raids. Those who survived and could not escape had to face the Soviet Army, which [[Siege of Danzig (1945)|captured the heavily damaged city on 30 March 1945]],<ref>{{cite web |url=http://www.gdansk.pl/en/article.php?category=453&article=926&history=453: |title=Gdańsk.pl |date=3 March 2006 |url-status=bot: unknown |archive-url=https://web.archive.org/web/20060303025650/http://www.gdansk.pl/en/article.php?category=453&article=926&history=453: |archive-date=3 March 2006}}</ref> followed by large-scale [[Rape during the liberation of Poland|rape]]<ref name="Baziur">{{cite journal |title=Armia Czerwona na Pomorzu Gdańskim 1945–1947 (Red Army in Gdańsk Pomerania 1945–1947) |author=Grzegorz Baziur, OBEP [[Institute of National Remembrance|IPN]] [[Kraków]] |journal=Biuletyn Instytutu Pamięci Narodowej (Institute of National Remembrance Bulletin) |year=2002 |volume=7 |pages=35–38|title-link=Pomerania}}</ref> and looting.<ref>Biskupski, Mieczysław B. ''The History of Poland''. Westport, CT: Greenwood Press, p. 97.</ref><ref>Tighe, Carl. ''Gdańsk: National Identity in the Polish-German Borderlands''. London: Palgrave Macmillan, p. 199.</ref> In line with the decisions made by the Allies at the [[Yalta Conference|Yalta]] and [[Potsdam Conference|Potsdam]] conferences, the city was annexed by Poland, although with a Soviet-installed communist regime, which stayed in power until the [[Fall of Communism]] in the 1980s. The remaining German residents of the city who had survived the war [[Flight and expulsion of Germans from Poland during and after World War II|fled or were expelled]] to postwar Germany. The city was repopulated by ethnic [[Poles]]; up to 18 percent (1948) of them had been [[Polish population transfers (1944–1946)|deported by the Soviets]] in [[Repatriation of Poles (1955–1959)|two major waves]] from pre-war eastern [[Territories of Poland annexed by the Soviet Union|Polish areas annexed by the Soviet Union]].<ref>{{Cite book |url=https://books.google.com/books?id=9ifeo6zdSMcC&q=3200 |title=Danzig – Biographie einer Stadt |first1=Peter Oliver |last1=Loew |publisher=C.H. Beck |year=2011 |isbn=978-3-406-60587-1 |page=232 |language=de |access-date=11 February 2016 |archive-date=1 February 2022 |archive-url=https://web.archive.org/web/20220201032302/https://books.google.com/books?id=9ifeo6zdSMcC&q=3200 |url-status=live }}</ref>
+
+===Contemporary times===
+[[File:Gran Armería, Gdansk, Polonia, 2013-05-20, DD 12.jpg|thumb|right|Example of [[Architecture of the Netherlands|Dutch-style]] buildings rebuilt after the war: The Old Arsenal by Anthony van Obberghen, Jan Strakowski and Abraham van den Blocke, 1602–1605.<ref>{{cite book |author1=Lech Krzyżanowski |author2=Michał Wożniak |author3=Marek Źak |author4=Wacław Górski |title=Beautiful historic Gdańsk |year=1995 |page=769 |publisher=Excalibur |isbn=9788390343150 |url=https://books.google.com/books?id=18O1AAAAIAAJ |access-date=17 October 2020 |archive-date=10 October 2021 |archive-url=https://web.archive.org/web/20211010234054/https://books.google.com/books?id=18O1AAAAIAAJ |url-status=live }}</ref>]]
+
+In 1946, the communists executed 17-year-old [[Danuta Siedzikówna]] and 42-year-old {{ill|Feliks Selmanowicz|pl}}, [[Polish resistance movement in World War II|Polish resistance]] members, in the local prison.<ref>{{cite web |url=https://europeremembers.com/destination/inka-monument/ |title=Inka Monument |website=Europe Remembers |access-date=18 September 2021 |archive-date=18 September 2021 |archive-url=https://web.archive.org/web/20210918152908/https://europeremembers.com/destination/inka-monument/ |url-status=live }}</ref><ref name=mkidn>{{cite web |url=http://mkidn.gov.pl/pages/posts/panstwowy-pogrzeb-zolnierzy-niezlomnych---bdquoinkirdquo-i-bdquozagonczykardquo-6535.php |title=Państwowy pogrzeb Żołnierzy Niezłomnych - "Inki" i "Zagończyka" |website=Ministerstwo Kultury i Dziedzictwa Narodowego |access-date=18 September 2021 |archive-date=18 September 2021 |archive-url=https://web.archive.org/web/20210918152908/http://mkidn.gov.pl/pages/posts/panstwowy-pogrzeb-zolnierzy-niezlomnych---bdquoinkirdquo-i-bdquozagonczykardquo-6535.php |url-status=live }}</ref>
+
+The port of Gdańsk was one of the three Polish ports through which [[Greeks]] and [[Macedonians (ethnic group)|Macedonians]], [[refugees of the Greek Civil War]], reached Poland.<ref name=ik>{{cite book |last=Kubasiewicz |first=Izabela |editor-last1=Dworaczek |editor-first1=Kamil |editor-last2=Kamiński |editor-first2=Łukasz |year=2013 |title=Letnia Szkoła Historii Najnowszej 2012. Referaty |language=pl |location=Warszawa |publisher=IPN |pages=114 |chapter=Emigranci z Grecji w Polsce Ludowej. Wybrane aspekty z życia mniejszości}}</ref> In 1949, four transports of Greek and Macedonian refugees arrived at the port of Gdańsk, from where they were transported to new homes in Poland.<ref name=ik/>
+
+Parts of the historic old city of Gdańsk, which had suffered large-scale destruction during the war, were rebuilt during the 1950s and 1960s. The reconstruction sought to dilute the German character of the city, and set it back to how it supposedly looked like before the annexation to Prussia in 1793.<ref>{{Cite book |url=https://books.google.com/books?id=j5IU6r6cFkAC&q=+Danzig&pg=PA80 |title=Die Schleifung – Zerstörung und Wiederaufbau historischer Bauten in Deutschland und Polen |first1=Bogdana |last1=Kozinska |first2=Dieter |last2=Bingen |publisher=Deutsches Polen-Institut |year=2005 |isbn=978-3-447-05096-8 |page=67 |language=de |access-date=11 February 2016 |archive-date=1 February 2022 |archive-url=https://web.archive.org/web/20220201032225/https://books.google.com/books?id=j5IU6r6cFkAC&q=+Danzig&pg=PA80 |url-status=live }}</ref><ref>{{Cite book |url=https://books.google.com/books?id=9ifeo6zdSMcC&q=Wiederaufbau |title=Danzig – Biographie einer Stadt |first1=Peter Oliver |last1=Loew |publisher=C.H. Beck |year=2011 |isbn=978-3-406-60587-1 |page=146 |language=de |access-date=17 October 2020 |archive-date=1 February 2022 |archive-url=https://web.archive.org/web/20220201032232/https://books.google.com/books?id=9ifeo6zdSMcC&q=Wiederaufbau |url-status=live }}</ref><ref>{{Cite book |url=https://books.google.com/books?id=j5IU6r6cFkAC&q=+Danzig&pg=PA80 |title=Die Schleifung – Zerstörung und Wiederaufbau historischer Bauten in Deutschland und Polen |first1=Konstanty |last1=Kalinowski |first2=Dieter |last2=Bingen |publisher=Deutsches Polen-Institut |year=2005 |isbn=978-3-447-05096-8 |page=89 |language=de |access-date=11 February 2016 |archive-date=1 February 2022 |archive-url=https://web.archive.org/web/20220201032225/https://books.google.com/books?id=j5IU6r6cFkAC&q=+Danzig&pg=PA80 |url-status=live }}</ref> Nineteenth-century transformations were ignored as "ideologically malignant" by post-war administrations, or regarded as "Prussian barbarism" worth of demolition,<ref>{{Cite book |url=https://books.google.com/books?id=LMuuwvSxrj4C&q=Barbarei |title=Neue Stadt in altem Glanz – Der Wiederaufbau Danzigs 1945–1960 |first1=Jacek |last1=Friedrich |publisher=Böhlau |year=2010 |isbn=978-3-412-20312-2 |pages=30, 40 |language=de |access-date=17 October 2020 |archive-date=1 February 2022 |archive-url=https://web.archive.org/web/20220201032230/https://books.google.com/books?id=LMuuwvSxrj4C&q=Barbarei |url-status=live }}</ref><ref>{{Cite book |url=https://books.google.com/books?id=ztVJLYq9WtoC&q=reconstruction+gdansk&pg=PA82 |title=Cultural landscapes of post-socialist cities: representation of powers and needs |first1=Mariusz |last1=Czepczynski |publisher=Ashgate publ. |year=2008 |isbn=978-0-7546-7022-3 |page=82 |access-date=17 October 2020 |archive-date=1 February 2022 |archive-url=https://web.archive.org/web/20220201032226/https://books.google.com/books?id=ztVJLYq9WtoC&q=reconstruction+gdansk&pg=PA82 |url-status=live }}</ref> while Flemish/Dutch, Italian and French influences were emphasized in order to "neutralize" the German influx on the general outlook of the city.<ref>{{Cite book |url=https://books.google.com/books?id=LMuuwvSxrj4C&q=italienische |title=Neue Stadt in altem Glanz – Der Wiederaufbau Danzigs 1945–1960 |first1=Jacek |last1=Friedrich |publisher=Böhlau |year=2010 |isbn=978-3-412-20312-2 |pages=34, 102 |language=de |access-date=17 October 2020 |archive-date=8 October 2021 |archive-url=https://web.archive.org/web/20211008143038/https://books.google.com/books?id=LMuuwvSxrj4C&q=italienische |url-status=live }}</ref>
+
+Boosted by heavy investment in the development of its port and three major shipyards for Soviet ambitions in the [[Baltic region]], Gdańsk became the major shipping and industrial centre of the [[People's Republic of Poland]].
+
+[[File:Strajk sierpniowy w Stoczni Gdańskiej im. Lenina 07.jpg|thumb|left|The [[Gdańsk Shipyard]] strike in 1980]]
+
+In December 1970, Gdańsk was the scene of [[Polish 1970 protests|anti-regime demonstrations]], which led to the downfall of Poland's communist leader [[Władysław Gomułka]]. During the demonstrations in Gdańsk and Gdynia, military as well as the police opened fire on the demonstrators causing several dozen deaths. Ten years later, in August 1980, [[Gdańsk Shipyard]] was the birthplace of the [[Solidarity (Polish trade union)|Solidarity]] trade union movement.
+
+In September 1981, to deter Solidarity, Soviet Union launched [[Exercise Zapad-81]], the largest military exercise in history, during which amphibious landings were conducted near Gdańsk. Meanwhile, the Solidarity held its first national congress in [[Hala Olivia]], Gdańsk when more than 800 deputies participated. Its opposition to the Communist regime led to the end of Communist Party rule in 1989, and sparked a series of protests that overthrew the Communist regimes of the former [[Eastern Bloc|Soviet bloc]]. Solidarity's leader, [[Lech Wałęsa]], became [[President of Poland]] in 1990. In 2014 the [[European Solidarity Centre]], a museum and library devoted to the history of the movement, opened in Gdańsk.<ref>{{cite news |url=http://wiadomosci.onet.pl/trojmiasto/w-gdansku-otwarto-europejskie-centrum-solidarnosci |title=W Gdańsku otwarto Europejskie Centrum Solidarności |publisher=[[Onet.pl]] |date=31 August 2014 |access-date=7 August 2015 |language=pl}}{{dead link|date=July 2020|bot=medic}}{{cbignore|bot=medic}}</ref>
+
+[[File:Spain vs Italy (7381934294).jpg|thumb|[[UEFA Euro 2012]] in Gdańsk]]
+Gdańsk native [[Donald Tusk]] became [[Prime Minister of Poland]] in 2007, and [[President of the European Council]] in 2014.<ref>{{cite news |url=https://www.bbc.com/news/world-europe-28989875 |title=Italy's Mogherini and Poland's Tusk get top EU jobs |publisher=BBC |date=30 August 2014 |access-date=8 August 2015 |archive-date=31 August 2014 |archive-url=https://web.archive.org/web/20140831010253/http://www.bbc.com/news/world-europe-28989875 |url-status=live }}</ref> Today Gdańsk is a major shipping port and [[tourist destination]].
+
+In 2014, the remains of [[Danuta Siedzikówna]] and Feliks Selmanowicz were found at the local Garrison Cemetery, and then their state burial was held in Gdańsk in 2016, with the participation of thousands of people from all over Poland and the highest Polish authorities.<ref name=mkidn/>
+
+In January 2019, the Mayor of Gdańsk, [[Paweł Adamowicz]], was assassinated by a man who had just been released from prison for violent crimes; the man claimed after stabbing the mayor in the abdomen, near the heart that the mayor's political party had been responsible for imprisoning him. Though Adamowicz was able to undergo a multi-hour surgery to try to treat his wounds, he died the next day.<ref>{{cite news |url=https://edition.cnn.com/2019/01/14/europe/pawel-adamowicz-gdansk-mayor-stabbed-poland-intl/index.html |title=Gdansk mayor Pawel Adamowicz dies after being stabbed in heart on stage |publisher=CNN |date=14 January 2019 |access-date=14 January 2019 |archive-date=14 January 2019 |archive-url=https://web.archive.org/web/20190114150906/https://edition.cnn.com/2019/01/14/europe/pawel-adamowicz-gdansk-mayor-stabbed-poland-intl/index.html |url-status=live }}</ref><ref>{{cite web |url=https://www.msn.com/en-us/news/world/mayor-of-polish-city-dies-after-stabbing-at-charity-event/ar-BBSeqqz?ocid=chromentpshop |title=Mayor of Polish city dies after stabbing at charity event |website=www.msn.com |access-date=16 April 2019 |archive-url=https://web.archive.org/web/20190115023117/https://www.msn.com/en-us/news/world/mayor-of-polish-city-dies-after-stabbing-at-charity-event/ar-BBSeqqz?ocid=chromentpshop |archive-date=15 January 2019 |url-status=dead}}</ref>
+
+In October 2019, the City of Gdańsk was awarded the [[Princess of Asturias Awards|Princess of Asturias Award]] in the Concord category as a recognition of the fact that "the past and present in Gdańsk are sensitive to solidarity, the defense of freedom and human rights, as well as to the preservation of peace".<ref>{{cite news |url=https://www.thefirstnews.com/article/polish-city-of-gdansk-wins-princess-of-asturias-award-8170 |title=Polish city of Gdansk wins Princess of Asturias Award |access-date=19 October 2019 |archive-date=19 October 2019 |archive-url=https://web.archive.org/web/20191019135303/https://www.thefirstnews.com/article/polish-city-of-gdansk-wins-princess-of-asturias-award-8170 |url-status=live }}</ref>
+
+==Geography==
+
+===Climate===
+{{climate chart
+|Gdańsk
+|−3.8|1.4|28.7
+|−3.1|2.3|22.5
+|−0.7|6.1|27.9
+|3.1|11.4|31.2
+|7.9|16.7|54.8
+|11.1|19.6|68
+|13.6|22.2|68.4
+|13.2|22.2|69.2
+|9.9|17.7|63.9
+|5.6|12.6|49.3
+|1.2|6.1|46.4
+|−2.2|2.5|38.8
+
+|float=right
+|source=[http://worldweather.wmo.int/en/city.html?cityId=25 World Meteorological Organisation]
+}}
+Gdańsk has a climate with both oceanic and continental influences. According to some categorizations, it has an [[oceanic climate]] (Cfb),<ref>"[http://www.weatherbase.com/weather/weather-summary.php3?s=5121&cityname=Gdansk%2C+Pomeranian+Voivodeship%2C+Poland&units= Gdansk] {{Webarchive|url=https://web.archive.org/web/20181106230835/http://www.weatherbase.com/weather/weather-summary.php3?s=5121&cityname=Gdansk%2C+Pomeranian+Voivodeship%2C+Poland&units= |date=6 November 2018 }}". ''Weatherbase.com''. Retrieved 14 February 2018.</ref> while others classify it as belonging to the [[continental climate]] zone (Dfb).<ref>"[https://www.britannica.com/media/full/276210/206711 Köppen climate classification] {{Webarchive|url=https://web.archive.org/web/20180214202852/https://www.britannica.com/media/full/276210/206711 |date=14 February 2018 }}". ''Britannica''. Retrieved 14 February 2018</ref> It actually depends on whether the mean reference temperature for the coldest winter month is set at {{cvt|-3|C|F}} or {{cvt|0|C|F}}. Gdańsk's dry winters and the precipitation maximum in summer are indicators of continentality. However seasonal extremes are less pronounced than those in inland Poland.
+
+The city has moderately cold and cloudy winters with mean temperature in January and February near or below {{cvt|0|C|F}} and mild summers with frequent showers and thunderstorms. Average temperatures range from {{cvt|-1.0|to|17.2|C|F|0}} and average monthly rainfall varies {{cvt|17.9|to|66.7|mm|in|0}} per month with a rather low annual total of {{cvt|507.3|mm|in|0}}. In general, it is damp, variable, and mild.
+
+The seasons are clearly differentiated. Spring starts in March and is initially cold and windy, later becoming pleasantly warm and often very sunny. Summer, which begins in June, is predominantly warm but hot at times with temperature reaching as high as {{cvt|30|to|35|C|F|0}} at least couple times a year with plenty of sunshine interspersed with heavy rain. Gdańsk averages 1,700 hours of sunshine per year. July and August are the warmest months. Autumn comes in September and is at first warm and usually sunny, turning cold, damp, and foggy in November. Winter lasts from December to March and includes periods of snow. January and February are the coldest months with the temperature sometimes dropping as low as {{cvt|-15|C|0}}.
+
+{{Weather box|location= Gdańsk (1991–2020)
+|width= auto
+|metric first= y
+|single line= y
+|Jan record high C = 13.4
+|Feb record high C = 18.1
+|Mar record high C = 24.5
+|Apr record high C = 30.6
+|May record high C = 32.3
+|Jun record high C = 34.6
+|Jul record high C = 36.0
+|Aug record high C = 35.8
+|Sep record high C = 31.7
+|Oct record high C = 28.1
+|Nov record high C = 21.1
+|Dec record high C = 13.7
+|Jan high C = 1.7
+|Feb high C = 2.9
+|Mar high C = 6.6
+|Apr high C = 12.1
+|May high C = 16.8
+|Jun high C = 20.4
+|Jul high C = 22.6
+|Aug high C = 22.9
+|Sep high C = 18.5
+|Oct high C = 12.7
+|Nov high C = 6.7
+|Dec high C = 3.1
+|year high C = 12.3
+|Jan low C = -3.3
+|Feb low C = -2.7
+|Mar low C = -0.4
+|Apr low C = 3.6
+|May low C = 8.1
+|Jun low C = 11.6
+|Jul low C = 14.2
+|Aug low C = 13.9
+|Sep low C = 10.4
+|Oct low C = 5.8
+|Nov low C = 1.9
+|Dec low C = -1.6
+|year low C = 5.1
+|Jan record low C = -27.4
+|Feb record low C = -29.8
+|Mar record low C = -22.8
+|Apr record low C = -7.7
+|May record low C = -4.3
+|Jun record low C = -0.5
+|Jul record low C = 2.1
+|Aug record low C = 4.4
+|Sep record low C = -1.9
+|Oct record low C = -7.0
+|Nov record low C = -16.9
+|Dec record low C = -23.3
+|year record low C =
+|precipitation colour = green
+|Jan precipitation mm = 28.5
+|Feb precipitation mm = 23.7
+|Mar precipitation mm = 27.5
+|Apr precipitation mm = 32.0
+|May precipitation mm = 53.3
+|Jun precipitation mm = 58.8
+|Jul precipitation mm = 79.4
+|Aug precipitation mm = 70.0
+|Sep precipitation mm = 64.5
+|Oct precipitation mm = 54.8
+|Nov precipitation mm = 42.6
+|Dec precipitation mm = 36.0
+|year precipitation mm = 571.0
+|unit precipitation days = 0.1 mm
+|Jan precipitation days = 16.67
+|Feb precipitation days = 14.25
+|Mar precipitation days = 14.03
+|Apr precipitation days = 11.43
+|May precipitation days = 13.07
+|Jun precipitation days = 14.03
+|Jul precipitation days = 13.43
+|Aug precipitation days = 14.03
+|Sep precipitation days = 12.40
+|Oct precipitation days = 15.27
+|Nov precipitation days = 15.93
+|Dec precipitation days = 17.97
+|year precipitation days = 172.51
+|Jan sun = 39
+|Feb sun = 70
+|Mar sun = 134
+|Apr sun = 163
+|May sun = 244
+|Jun sun = 259
+|Jul sun = 236
+|Aug sun = 225
+|Sep sun = 174
+|Oct sun = 105
+|Nov sun = 45
+|Dec sun = 32
+|year sun = 1726
+|source 1 = Institute of Meteorology and Water Management<ref name=IMGWtavg>{{cite web
+| archive-url = https://web.archive.org/web/20211203115527/https://klimat.imgw.pl/pl/climate-normals/TSR_AVE
+| archive-date = 3 December 2021
+| url = https://klimat.imgw.pl/pl/climate-normals/TSR_AVE
+| title = Średnia dobowa temperatura powietrza
+| work = Normy klimatyczne 1991-2020
+| publisher = Institute of Meteorology and Water Management
+| language = pl
+| access-date = 31 January 2022
+| url-status = live
+}}</ref><ref name=IMGWtmin>{{cite web
+| archive-url = https://web.archive.org/web/20220115043924/https://klimat.imgw.pl/pl/climate-normals/TMIN_AVE
+| archive-date = 15 January 2022
+| url = https://klimat.imgw.pl/pl/climate-normals/TMIN_AVE
+| title = Średnia minimalna temperatura powietrza
+| work = Normy klimatyczne 1991-2020
+| publisher = Institute of Meteorology and Water Management
+| language = pl
+| access-date = 31 January 2022
+| url-status = live
+}}</ref><ref name=IMGWtmax>{{cite web
+| archive-url = https://web.archive.org/web/20220115044916/https://klimat.imgw.pl/pl/climate-normals/TMAX_AVE
+| archive-date = 15 January 2022
+| url = https://klimat.imgw.pl/pl/climate-normals/TMAX_AVE
+| title = Średnia maksymalna temperatura powietrza
+| work = Normy klimatyczne 1991-2020
+| publisher = Institute of Meteorology and Water Management
+| language = pl
+| access-date = 31 January 2022
+| url-status = live
+}}</ref><ref name=IMGWprecip>{{cite web
+| archive-url = https://web.archive.org/web/20220109045820/https://klimat.imgw.pl/pl/climate-normals/OPAD_SUMA
+| archive-date = 9 January 2022
+| url = https://klimat.imgw.pl/pl/climate-normals/OPAD_SUMA
+| title = Miesięczna suma opadu
+| work = Normy klimatyczne 1991-2020
+| publisher = Institute of Meteorology and Water Management
+| language = pl
+| access-date = 31 January 2022
+| url-status = live
+}}</ref><ref name=IMGWprecipdays>{{cite web
+| archive-url = https://web.archive.org/web/20220115051112/https://klimat.imgw.pl/pl/climate-normals/OPAD_01
+| archive-date = 15 January 2022
+| url = https://klimat.imgw.pl/pl/climate-normals/OPAD_01
+| title = Liczba dni z opadem >= 0,1 mm
+| work = Normy klimatyczne 1991-2020
+| publisher = Institute of Meteorology and Water Management
+| language = pl
+| access-date = 31 January 2022
+| url-status = live
+}}</ref><ref name=IMGWsnowdepth>{{cite web
+| archive-url = https://web.archive.org/web/20220115054936/https://klimat.imgw.pl/pl/climate-normals/SNIEG_SR_GRUB
+| archive-date = 15 January 2022
+| url = https://klimat.imgw.pl/pl/climate-normals/SNIEG_SR_GRUB
+| title = Średnia grubość pokrywy śnieżnej
+| work = Normy klimatyczne 1991-2020
+| publisher = Institute of Meteorology and Water Management
+| language = pl
+| access-date = 31 January 2022
+| url-status = live
+}}</ref><ref name=IMGWsnowdays>{{cite web
+| archive-url = https://web.archive.org/web/20220121044246/https://klimat.imgw.pl/pl/climate-normals/SNIEG_0
+| archive-date = 21 January 2022
+| url = https://klimat.imgw.pl/pl/climate-normals/SNIEG_0
+| title = Liczba dni z pokrywą śnieżna > 0 cm
+| work = Normy klimatyczne 1991-2020
+| publisher = Institute of Meteorology and Water Management
+| language = pl
+| access-date = 31 January 2022
+| url-status = live
+}}</ref><ref name=IMGWsun>{{cite web
+| archive-url = https://web.archive.org/web/20220115055331/https://klimat.imgw.pl/pl/climate-normals/USL
+| archive-date = 15 January 2022
+| url = https://klimat.imgw.pl/pl/climate-normals/USL
+| title = Średnia suma usłonecznienia (h)
+| work = Normy klimatyczne 1991-2020
+| publisher = Institute of Meteorology and Water Management
+| language = pl
+| access-date = 31 January 2022
+| url-status = live
+}}</ref>
+|source 2= meteomodel.pl{{efn|Record temperatures are from all Gdańsk stations.}}<ref>{{cite web |url=https://meteomodel.pl/dane/srednie-miesieczne/?imgwid=354180155&par=tmax&max_empty=3 |title=Gdańsk Średnie i sumy miesięczne |date=6 April 2018 |publisher=meteomodel.pl |access-date=14 January 2020 |archive-date=9 March 2020 |archive-url=https://web.archive.org/web/20200309021457/https://meteomodel.pl/dane/srednie-miesieczne/?imgwid=354180155&par=tmax&max_empty=3 |url-status=live }}</ref>
+|date=October 2015
+}}
+
+==Economy==
+The industrial sections of the city are dominated by shipbuilding, petrochemical, and chemical industries, and food processing. The share of high-tech sectors such as electronics, telecommunications, IT engineering, cosmetics and pharmaceuticals is on the rise.<ref>{{cite web |url=https://businessinsider.com.pl/firmy/8-biznesowych-rzeczy-ktorych-nie-wiedziales-o-gdansku/7yhqcfl |title=Gdańsk – dobry klimat dla interesów. 8 biznesowych rzeczy, których nie wiedziałeś o Gdańsku |last= |first= |date=13 July 2020 |website=Business Insider |publisher=[[Onet]] |access-date=31 October 2021 |quote= |archive-date=31 October 2021 |archive-url=https://web.archive.org/web/20211031101856/https://businessinsider.com.pl/firmy/8-biznesowych-rzeczy-ktorych-nie-wiedziales-o-gdansku/7yhqcfl |url-status=live }}</ref> [[Amber]] processing is also an important part of the local economy, as the majority of the world's amber deposits lie along the [[Baltic Sea|Baltic]] coast. The [[Pomeranian Voivodeship]], including Gdańsk, is also a major tourist destination in the summer, as millions of Poles and other European tourists flock to the beaches of the Baltic coastline.
+Major companies in Gdańsk:
+{{Div col|colwidth=22em}}
+*[[Interpublic Group of Companies|Acxiom]] – IT
+*[[Arla Foods]] – food processing<ref name="Gdańsk - miasto które przyciąga">{{cite news |url=https://businessinsider.com.pl/firmy/gdansk-miasto-ktore-przyciaga/efy0ccn |title=Gdańsk - miasto które przyciąga |access-date=30 July 2020 |archive-date=1 February 2022 |archive-url=https://web.archive.org/web/20220201032232/https://businessinsider.com.pl/firmy/gdansk-miasto-ktore-przyciaga/efy0ccn |url-status=live }}</ref>
+*Bayer Shared Service Centre – finance & accounting
+*Cognor – steel, engineering, capital goods
+*Coleman Research – knowledge broker
+*Crist – shipbuilding
+*[[Delphi Corporation|Delphi]] – automotive parts
+*[[Dr. Oetker]] – food processing
+*[[Grupa Lotos]] – energy, petrol refinery
+*Energa Trading – electrical and heat energy
+*[[Bank BPH]] – finance
+*[[Remontowa|Gdańska Stocznia Remontowa]] – shipbuilding
+*Elektrociepłownie Wybrzeże – energy
+*[[LPP (company)|LPP]] – retail
+*Polnord Energobudowa – construction company
+*[[Petrobaltic]] – energy, oil drilling
+*[[Intel Corporation|Intel]] – IT<ref name="Gdańsk - miasto które przyciąga"/>
+*[[IBM]] – IT
+*[[IVONA]] – IT
+*[[FINEOS]] – IT<ref>https://archive.today/20130124034524/http://www.fineos.com/about/locations/ FINEOS Locations</ref>
+*[[Wirtualna Polska]] – internet service
+*[[Kainos]] – IT<ref name="Gdańsk - miasto które przyciąga"/>
+*[[Lufthansa Systems]] – IT<ref name="Gdańsk - miasto które przyciąga"/>
+*[[Jeppesen]] – IT
+*[[Compuware]] – IT
+*[[Thomson Reuters]] – media
+*[[ThyssenKrupp]] – steel, engineering, capital goods<ref name="Gdańsk - miasto które przyciąga"/>
+*[[A. P. Moller-Maersk Group|Maersk Line]] – services & pick-up
+*Transcom WorldWide – business processing outsourcing
+*[[Jysk (store)|Jysk]] – retail
+*Meritum Bank – finance
+*[[Glencore]] – raw materials
+*[[PKN Orlen|Orlen Morena]] – energy
+*[[CIECH|Fosfory Ciech]] – chemical company
+*Hydrobudowa – construction company
+*Llentabhallen – steel constructions
+*Ziaja – cosmetics and beauty company
+*Stabilator – construction company
+*[[Skanska]] – construction company
+*Flügger – paints manufacturing
+*HD heavy duty – retail
+*Dresser Wayne – retail fueling systems
+*[[First Data]] – finance<ref name="Gdańsk - miasto które przyciąga"/>
+*Masterlease – finance
+*Transcom WorldWide – business processing outsourcing
+*Weyerhaeuser Cellulose Fibres – cellulose fibre manufacturing
+*[[Gdańsk Shipyard]] – shipbuilding
+*OIE Support – education services (part of [[Laureate International Universities]])
+*[[PricewaterhouseCoopers]] – professional services
+*[[Kemira]] – chemical industry group
+*[[BreakThru Films]] – animated film studio
+*[[Schibsted]] – IT
+*[[IWG plc|IWG]] – business support services
+*Mango Media – home shopping channel
+*[[Mitsui O.S.K. Lines|MOL Europe]] – shipping
+*VB Leasing – finance
+*[[Metsä Group]] – forest industry
+*Competence Call Centre – call centre
+*[[EPAM Systems]] – IT<ref name="Gdańsk - miasto które przyciąga"/>
+*Esotiq&Henderson – retail
+*[[Bayer]] – chemical and pharmaceutical company<ref name="Gdańsk - miasto które przyciąga"/>
+*Playsoft – IT
+*[[Staples Advantage]] – office products
+*[[Deloitte]] – professional services
+*[[KPMG]] – professional services
+*[[Comarch]] – IT
+*ESO Audit – professional services
+*TF Bank – finance
+*[[Ensono]] – IT{{div col end}}
+
+==Main sights==
+[[File:2012-08-30 pano gdansk sm2.jpg|thumb|center|upright=3.2|View of Gdańsk's Main Town from the [[Motława]] River (2012)]]
+{{-}}
+
+===Architecture===
+{{multiple image|align=right|caption_align=center|perrow=2|total_width=350|header=Sights at the Royal Route
+|image1=Puerta Alta, Gdansk, Polonia, 2013-05-20, DD 02.jpg
+|image2=Gdańsk, Brama Złota (HB1).jpg
+|image3=Ayuntamiento Principal, Gdansk, Polonia, 2013-05-20, DD 01.jpg
+|image4=Corte Artus, Gdansk, Polonia, 2013-05-20, DD 03.jpg
+|image5=Gdańsk Złota Kamienica.jpg
+|image6=Monumento Neptuno, Gdansk, Polonia, 2013-05-20, DD 05.jpg
+|caption1=Highland Gate
+|caption2=Mansion of the Society of Saint George and [[Golden Gate (Gdańsk)|Golden Gate]]
+|caption3=''[[Ulica Długa]]''
+|caption4=[[Artus Court]]
+|caption5=Sculptures at the top of the Golden House
+|caption6=[[Neptune's Fountain, Gdańsk|Neptune's Fountain]] and ''[[Długi Targ]]''
+}}
+The city has some buildings surviving from the time of the [[Hanseatic League]]. Most [[tourist attraction]]s are located along or near Ulica Długa (''Long Street'') and Długi Targ (''Long Market''), a pedestrian thoroughfare surrounded by buildings reconstructed in historical (primarily during the 17th century) style and flanked at both ends by elaborate [[city gate]]s. This part of the city is sometimes referred to as the Royal Route, since it was once the former path of processions for visiting Kings of Poland.
+
+Walking from end to end, sites encountered on or near the Royal Route include:
+*Highland Gate (''[[:pl:Brama Wyżynna w Gdańsku|Brama Wyżynna]]''), which marks the beginning of the Royal Route
+*Torture House (''Katownia'') and Prison Tower (''Wieża więzienna''), now housing the Amber Museum (''[[:pl:Muzeum Bursztynu w Gdańsku|Muzeum Bursztynu]]'')
+*Mansion of the Society of Saint George (''[[:pl:Dwór Bractwa św. Jerzego w Gdańsku|Dwór Bractwa św. Jerzego]]'')
+*[[Golden Gate (Gdańsk)|Golden Gate]] (''Złota Brama'')
+*''[[Ulica Długa]]'' ("Long Lane"), filled with picturesque tenements
+**[[Uphagen's House]] (''Dom Uphagena''), branch of the Museum of Gdańsk
+**Lion's Castle (''[[:pl:Lwi Zamek|Lwi Zamek]]'')
+**[[Gdańsk Town Hall|Main Town Hall]] (''Ratusz Głównego Miasta'', built 1378–1492)
+*''[[Długi Targ]]'' ("Long Market")
+**[[Artus Court|Artus' Court]] (''Dwór Artusa'')
+**[[Neptune's Fountain, Gdańsk|Neptune's Fountain]] (''Fontanna Neptuna''), a masterpiece by architect [[Abraham van den Blocke]], 1617.<ref name="Sturgis">{{cite book |author1=Russell Sturgis |author2=Arthur Lincoln Frothingham |title=A history of architecture |year=1915 |page=[https://archive.org/details/ahistoryarchite01sturgoog/page/n315 293] |publisher=Baker & Taylor |url=https://archive.org/details/ahistoryarchite01sturgoog}}</ref><ref>{{cite book |author1=Paul Wagret |author2=Helga S. B. Harrison |title=Poland |year=1964 |page=302 |publisher=Nagel |url=https://books.google.com/books?id=uXu0AAAAIAAJ |access-date=17 October 2020 |archive-date=10 October 2021 |archive-url=https://web.archive.org/web/20211010230031/https://books.google.com/books?id=uXu0AAAAIAAJ |url-status=live }}</ref>
+**New Jury House (''[[:pl:Nowy Dom Ławy w Gdańsku|Nowy Dom Ławy]]''), in which the seemingly 17th-century ''Maiden in the Window'' appears every day during the tourist season, referring to a popular novel ''Panienka z okienka'' ("Maiden in the Window") by [[Jadwiga Łuszczewska]], set in 17th-century Gdańsk<ref>{{Cite web |url=https://pomorskie.travel/en/-/nowy-dom-lawy-sien-gdanska- |title=The New Jury House (The Gdańsk Hall) |website=Pomorskie.travel |access-date=1 May 2020 |archive-date=1 February 2022 |archive-url=https://web.archive.org/web/20220201032307/https://pomorskie.travel/en/punkty-poi/nowy-dom-lawy-sien-gdanska/ |url-status=live }}</ref>
+**Golden House (''[[:pl:Złota Kamienica w Gdańsku|Złota Kamienica]]''), a distinctive [[Renaissance in Poland|Renaissance]] townhouse from the early 17th century, decorated with numerous reliefs and sculptures
+*[[Green Gate]] (''Zielona Brama''), a [[Mannerist architecture and sculpture in Poland|Mannerist]] gate, built as a formal residence of Polish kings, now housing a branch of the [[National Museum, Gdańsk|National Museum in Gdańsk]]
+
+[[File:Gdansk Royal Chapel.jpg|thumb|right|Royal Chapel of the Polish King – [[John III Sobieski]] was built in [[baroque]] style between 1678 and 1681 by [[Tylman van Gameren]].<ref name="ROBiDZ">{{cite web |author=ROBiDZ w Gdańsku |url=http://www.wrotapomorza.pl/pl/kultura/zabytki/wybrane_zabytki/kosciol/krolewska |title=Kaplica Królewska w Gdańsku |work=www.wrotapomorza.pl |language=pl |access-date=29 December 2008 |url-status=dead |archive-url=https://web.archive.org/web/20150210010543/http://www.wrotapomorza.pl/pl/kultura/zabytki/wybrane_zabytki/kosciol/krolewska |archive-date=10 February 2015}}</ref>]]
+[[File:Bazylika Mariacka DSC01870.jpg|thumb|[[St. Mary's Church, Gdańsk|St. Mary's Church]] – the largest brick church in the world]]
+[[File:Gdańsk (DerHexer) 2010-07-15 091.jpg|thumb|[[Polish Post Office (Danzig)|Polish Post Office]], site of the [[Defence of the Polish Post Office in Danzig|1939 battle]]]]
+Gdańsk has a number of historical churches, including [[St Catherine's Church, Gdańsk|St. Catherine's Church]] and [[St. Mary's Church, Gdańsk|St. Mary's Church]] (''Bazylika Mariacka''). This latter is a municipal church built during the 15th century, and is the largest brick church in the world.
+
+The city's 17th-century fortifications represent one of Poland's official national [[List of Historical Monuments (Poland)|Historic Monuments]] (''[[Pomnik historii]]''), as designated on 16 September 1994 and tracked by the [[Narodowy Instytut Dziedzictwa|National Heritage Board of Poland]].
+
+Other main sights in the historical city centre include:
+*Royal Chapel of the Polish King [[John III Sobieski]]
+*''Żuraw'' – medieval port crane
+*Gradowa Hill
+*Granaries on the [[Ołowianka]] and Granary Islands
+*Great Armoury
+*[[John III Sobieski Monument in Gdańsk|John III Sobieski Monument]]
+*Old Town Hall
+*Jan Heweliusz Monument
+*Great Mill (1350)
+*Small Mill
+*House of Research Society
+*[[Polish Post Office (Danzig)|Polish Post Office]], site of the [[Defence of the Polish Post Office in Danzig|1939 battle]]
+*brick gothic town gates, i.e. Mariacka Gate, Straganiarska Gate, Cow Gate
+
+Main sights outside the historical city centre include:
+*[[Abbot's Palace (Oliwa)|Abbot's Palace]] in the Oliwa Park
+*Lighthouse in Nowy Port
+*[[Oliwa Cathedral]]
+*Pachołek Hill – an observation point in Oliwa
+*Pier in Brzeźno
+*[[City walls of Gdańsk|Medieval city walls]]
+*[[Westerplatte]]
+*[[Wisłoujście Fortress]]
+*[[Gdańsk Zoo]]
+
+===Museums===
+[[File:Palacio de Oliwa, Gdansk, Polonia, 2013-05-21, DD 05.jpg|thumb|[[Abbot's Palace (Oliwa)|Abbot's Palace]] in Oliwa]]
+[[File:Gdańsk, Brama Mariacka (WLZ14).jpg|thumb |archeological Museum and Mariacka Gate]]
+[[File:Museum WWII 2.jpg|thumb|[[Museum of the Second World War]], opened in 2017]]
+*[[National Museum, Gdańsk|National Museum]] (''Muzeum Narodowe'')
+**Department of Ancient Art – contains a number of important artworks, including [[Hans Memling]]'s ''[[The Last Judgment (Memling)|Last Judgement]]''
+**[[Green Gate]]
+**Department of Modern Art – in the [[Abbot's Palace (Oliwa)|Abbot's Palace]] in Oliwa
+**Ethnography Department – in the Abbot's Granary in Oliwa
+**Gdańsk Photography Gallery
+*Historical Museum (''[[:pl:Muzeum Historyczne Miasta Gdańska|Muzeum Historyczne Miasta Gdańska]]''):
+**[[Gdańsk Town Hall|Main Town Hall]]
+**[[Artus Court|Artus' Court]]
+**[[Uphagen's House]]
+**Amber Museum (''[[:pl:Muzeum Bursztynu w Gdańsku|Muzeum Bursztynu]]'')
+**Museum of the Polish Post (''[[:pl:Muzeum Poczty Polskiej w Gdańsku|Muzeum Poczty Polskiej]]'')
+**''[[:pl:Wartownia nr 1 na Westerplatte|Wartownia nr 1 na Westerplatte]]''
+**Museum of Tower Clocks (''[[:pl:Muzeum Zegarów Wieżowych|Muzeum Zegarów Wieżowych]]'')
+**[[Wisłoujście Fortress]]
+*[[National Maritime Museum, Gdańsk]] (''Narodowe Muzeum Morskie''):
+**Żuraw Crane
+**Granaries in Ołowianka
+**[[museum ship]] ''[[SS Sołdek|SS Soldek]]'' is anchored on the [[Motława]] River and was the first ship built in post-war Poland.
+*[[European Solidarity Centre]]. Museum and library dedicated to the history of the [[Solidarity (Polish trade union)|Solidarity]] movement.
+*Archeological Museum (''[[:pl:Muzeum Archeologiczne w Gdańsku|Muzeum Archeologiczne]]'')
+*Gdańsk Nowy Port Lighthouse (''[[:pl:Latarnia Morska Gdańsk Nowy Port|Latarnia Morska Gdańsk Nowy Port]]'')
+*''Izba Pamięci Wincentego Pola w Gdańsku-Sobieszewie''
+*Archdiocese Museum (''[[:pl:Muzeum Archidiecezjalne w Gdańsku|Muzeum Archidiecezjalne]]'')
+*[[Museum of the Second World War]]
+
+===Entertainment===
+*[[Polish Baltic Philharmonic]]
+*[[Baltic State Opera|Baltic Opera]]
+*''Teatr Wybrzeże''
+*[[Gdańsk Shakespeare Theatre]] is a Shakespearean theatre built on the historical site of a 17th-century playhouse where English travelling players came to perform. The new theatre, completed in 2014, hosts the annual [[Gdańsk Shakespeare Festival]].<ref>{{cite news |title=Elizabethan playhouse in Poland to host work by Shakespeare's Globe |last=Snow |first=Georgia |url=http://www.thestage.co.uk/news/2014/09/elizabethan-playhouse-poland-host-work-shakespeares-globe/ |newspaper=[[The Stage]] |date=3 September 2014 |access-date=15 September 2014 |archive-date=12 September 2014 |archive-url=https://web.archive.org/web/20140912235038/http://www.thestage.co.uk/news/2014/09/elizabethan-playhouse-poland-host-work-shakespeares-globe/ |url-status=live }}</ref>
+
+==Transport==
+[[File:SA136-019, Gdańsk Brętowo, 2015-09-25 (Muri WG 2015-34).jpg|thumb|right|[[Pesa Atribo]] of the [[Szybka Kolej Miejska (Tricity)|PKP Fast Urban Railways]] (SKM) in Gdańsk]]
+[[File:Port Lotniczy im Lecha Walesy Terminal 2.jpg|thumb|[[Gdańsk Lech Wałęsa Airport]]]]
+*[[Gdańsk Lech Wałęsa Airport]] – an international airport located in Gdańsk;
+*The [[Szybka Kolej Miejska (Tricity)|Szybka Kolej Miejska]], (SKM) the ''Fast Urban Railway'', functions as a Metro system for the [[Tricity, Poland|Tricity]] area including Gdańsk, [[Sopot]] and [[Gdynia]], operating frequent trains to 27 stations covering the Tricity.<ref>SKM Passenger Information, Map http://www.skm.pkp.pl/ {{Webarchive|url=https://web.archive.org/web/20141227081243/http://www.skm.pkp.pl/ |date=27 December 2014 }}</ref> The service is operated by [[electric multiple unit]] trains at a frequency of 6 minutes to 30 minutes between trains (depending on the time of day) on the central section between Gdańsk and Gdynia, and less frequently on outlying sections. The SKM system has been extended northwest of the Tricity, to [[Wejherowo]], [[Lębork]] and [[Słupsk]], {{cvt|110|km|abbr=off}} west of Gdynia, and to the south it has been extended to [[Tczew]], {{cvt|31|km|abbr=off}} south of Gdańsk.
+*Railways: The principal station in Gdańsk is [[Gdańsk Główny railway station]], served by both [[Szybka Kolej Miejska (Tricity)|SKM]] local trains and [[Polskie Koleje Panstwowe|PKP]] long-distance trains. In addition, long-distance trains also stop at [[Gdańsk Oliwa railway station]], [[Gdańsk Wrzeszcz railway station]], [[Sopot railway station|Sopot]] and [[Gdynia Główna railway station|Gdynia]]. Gdańsk also has nine other railway stations, served by local [[Szybka Kolej Miejska (Tricity)|SKM]] trains;
+*Long-distance trains are operated by [[PKP Intercity]] which provides connections with all major [[List of cities and towns in Poland|Polish cities]], including [[Warsaw]], [[Kraków]], [[Łódź]], [[Poznań]], [[Katowice]] and [[Szczecin]], and with the neighbouring Kashubian Lakes region.
+
+In 2011–2015 the Warsaw-Gdańsk-Gdynia railway route underwent a major upgrading costing $3&nbsp;billion, partly funded by the [[European Investment Bank]], including track replacement, realignment of curves and relocation of sections of track to allow speeds up to {{cvt|200|km/h|mph|0}}, modernization of stations, and installation of the most modern [[European Train Control System|ETCS]] signalling system, which was completed in June 2015. In December 2014 new [[Alstom]] [[Pendolino]] high-speed trains were put into service between Gdańsk, Warsaw and [[Kraków]] reducing the rail travel time from Gdańsk to Warsaw to 2 hours 58 minutes,<ref>[http://www.railwaygazette.com/news/passenger/single-view/view/polish-pendolino-launches-200-kmh-operation.html Polish Pendolino launches 200 km/h operation, Railway Gazette International] {{Webarchive|url=https://web.archive.org/web/20141216062725/http://www.railwaygazette.com/news/passenger/single-view/view/polish-pendolino-launches-200-kmh-operation.html |date=16 December 2014 }}, 15 December 2014</ref><ref>{{cite web |url=http://www.trojmiasto.pl/wiadomosci/Pendolino-z-Trojmiasta-do-Warszawy-Wiecej-pytan-niz-odpowiedzi-n71010.html |title=Pendolino z Trójmiasta do Warszawy. Więcej pytań niż odpowiedzi |date=30 July 2013 |work=trojmiasto.pl |access-date=25 December 2014 |archive-date=28 July 2014 |archive-url=https://web.archive.org/web/20140728035932/http://www.trojmiasto.pl/wiadomosci/Pendolino-z-Trojmiasta-do-Warszawy-Wiecej-pytan-niz-odpowiedzi-n71010.html |url-status=live }}</ref> further reduced in December 2015 to 2 hours 39 minutes.<ref>';Jeszcze szybciej z Warszawy do Gdańska,' Kurier Kolejowy 9 January 2015 http://www.kurierkolejowy.eu/aktualnosci/22716/Jeszcze-szybciej-z-Warszawy-do-Gdanska.html {{Webarchive |url=https://web.archive.org/web/20150110043951/http://kurierkolejowy.eu/aktualnosci/22716/Jeszcze-szybciej-z-Warszawy-do-Gdanska.html |date=10 January 2015 }}</ref>
+
+*A new railway, [[Pomorska Kolej Metropolitalna]] (PKM, the 'Pomeranian Metropolitan Railway'), commenced service on 1 September 2015, connecting Gdańsk Lech Wałęsa Airport with [[Gdańsk Wrzeszcz (SKM stop)|Wrzeszcz]] and downtown Gdańsk. It connects to the [[Szybka Kolej Miejska (Tricity)]] (SKM) which provides further connections to the entire area served by SKM.
+*[[Bus transport in Gdańsk|City buses]] and [[Trams in Gdańsk|trams]] are operated by ZTM Gdańsk (Zarząd Transportu Miejskiego w Gdańsku).
+*From 1 October 2018 selected circuits of line 31 from [[Trolleybuses in Gdynia|PKT Gdynia]] go to bus stop Sopot [[Ergo Arena]] without [[trolley pole]]. Small part of this rote passes through Gdańsk.
+*[[Port of Gdańsk]] – a seaport located on the southern coast of [[Gdańsk Bay]] within the city;
+*[[Obwodnica Trójmiejska|Obwodnica Trojmiejska]] – part of [[Expressway S6 (Poland)|expressway S6]] that bypasses the cities of Gdańsk, [[Sopot]] and [[Gdynia]].
+*The [[A1 autostrada (Poland)|A1 motorway]] connects the port and city of Gdańsk with the southern border of the country. {{As of|2014}}, some fragments of the A1 motorway are still incomplete.
+
+Gdańsk is the starting point of the [[EuroVelo]] 9 cycling route which continues southward through Poland, then into the [[Czech Republic]], [[Austria]] and [[Slovenia]] before ending at the [[Adriatic Sea]] in [[Pula]], Croatia.
+
+Additionally, Gdańsk is part of the [[Rail-2-Sea]] project. This project's objective is to connect the city with the Romanian [[Black Sea]] port of [[Constanța]] with a {{cvt|3,663|km|abbr=off}} long railway line passing through Poland, Slovakia, Hungary and Romania.<ref>{{cite news |url=https://universul.net/rail-2-sea-and-via-carpathia-the-us-backed-highway-and-rail-links-from-the-baltic-to-the-black-sea/ |title=Rail-2-Sea and Via Carpathia, the US-backed highway and rail links from the Baltic to the Black Sea |first=Alison |last=Mutler |newspaper=Universul.net |date=12 October 2020 |access-date=13 July 2021 |archive-date=10 November 2021 |archive-url=https://web.archive.org/web/20211110070034/https://universul.net/rail-2-sea-and-via-carpathia-the-us-backed-highway-and-rail-links-from-the-baltic-to-the-black-sea/ |url-status=live }}</ref><ref>{{cite journal |url=https://www.researchgate.net/publication/347344614 |title=The Three Seas Initiative as a new model of regional cooperation in Central Europe: A Polish perspective |first=Łukasz |last=Lewkowicz |journal=UNISCI Journal |volume=18 |pages=177–194 |year=2020 |issue=54 |doi=10.31439/UNISCI-101 |doi-access=free |access-date=13 July 2021 |archive-date=1 February 2022 |archive-url=https://web.archive.org/web/20220201032231/https://www.researchgate.net/publication/347344614_The_Three_Seas_Initiative_as_a_new_model_of_regional_cooperation_in_Central_Europe_A_Polish_perspective |url-status=live }}</ref>
+
+<gallery heights="135" mode="packed">
+File:Gdańsk (DerHexer) 2010-07-12 016.jpg|Gdańsk main railway station (built 1896–1900)
+File:31WE-028+027, Gdańsk Główny, 2016-11-18.jpg|[[Szybka Kolej Miejska (Tricity)|Fast Urban Rail]] train
+File:Gdansk tramwaj 1052 2.jpg|Gdańsk tram – [[Pesa Jazz]] Duo
+File:New Solaris Urbino 12, Gdańsk.JPG|Gdańsk bus - [[Solaris Urbino 12]]
+File:Expressway S6 Tricity PL ubt.JPG|S6 expressway Tricity
+</gallery>
+
+==Sports==
+[[File:PGE Arena, Gdańsk, 2015-09-25 (Muri WG 2015-34).jpg|thumb|right|[[Stadion Miejski (Gdańsk)|Stadion Miejski]]]]
+[[File:GdanskSopot ErgoArena 20110603.jpg|thumb|right|[[Ergo Arena]]]]
+There are many popular professional sports teams in the Gdańsk and Tricity area. Amateur sports are played by thousands of Gdańsk citizens and also in schools of all levels (elementary, secondary, university).
+
+The city's professional [[Association football|football]] club is [[Lechia Gdańsk]]. Founded in 1945, they play in the [[Ekstraklasa]], Poland's top division. Their home stadium, [[Stadion Miejski (Gdańsk)|Stadion Miejski]], was one of the four Polish stadiums to host the [[UEFA Euro 2012]] competition, as well as the host of the [[2021 UEFA Europa League Final]]. Other notable football clubs are [[Gedania 1922 Gdańsk]] and [[SKS Stoczniowiec Gdańsk]], which both played in the second tier in the past.
+
+Other notable clubs include:
+*Speedway club [[Wybrzeże Gdańsk]], which competes in the second tier as of 2020, but for decades competed in [[Ekstraliga (speedway)|Poland's top division]], most recently in 2014, where it finished 2nd in 1967, 1978 and 1985;
+*Rugby club [[RC Lechia Gdańsk|Lechia Gdańsk]], which competes in [[Ekstraliga (rugby)|Poland's top division]], 13 times Polish champions, most recently in 2014;
+*Handball club [[GKS Wybrzeże Gdańsk]], which plays in the [[Polish Superliga (men's handball)|Poland's top division]], 10 times Polish champions, most recently in 2001, two times [[EHF Champions League|European Cup]] runners up;
+*Ice Hockey club [[Stoczniowiec Gdańsk]], which competes in [[Polska Hokej Liga|Poland's top division]], finishing 3rd in [[2002–03 Polska Liga Hokejowa season|2003]];
+*Volleyball club [[Trefl Gdańsk]], which competes in [[PlusLiga|Poland's top division]], and finished 2nd in [[2014–15 PlusLiga|2015]].
+
+The city's [[Hala Olivia]] was a venue for the official [[2009 EuroBasket]],<ref>[http://www.fiba.com/pages/eng/fa/event/p/sid/6328/_/index.html 2009 EuroBasket] {{Webarchive|url=https://web.archive.org/web/20160807052744/http://www.fiba.com/pages/eng/fa/event/p/sid/6328/_/index.html |date=7 August 2016 }}, ARCHIVE.FIBA.com, Retrieved 5 June 2016.</ref> and the [[Ergo Arena]] was one of the [[2013 Men's European Volleyball Championship]], [[2014 FIVB Volleyball Men's World Championship]] and [[2016 European Men's Handball Championship]] venues.
+
+==Politics and local government==
+{{Main|Politics of Gdańsk}}
+<!--[[File:Gdańsk 69 Baltic Philharmonic.jpg|thumb|upright=1.0|[[Polish Baltic Philharmonic]] on the [[Motława]] river]]struck out to reduce image flood-->
+Contemporary Gdańsk is the capital of the province called [[Pomeranian Voivodeship]] and is one of the major centres of economic and administrative life in Poland. Many important agencies of the state and local government levels have their main offices here: the Provincial Administration Office, the Provincial Government, the Ministerial Agency of the State Treasury, the Agency for Consumer and Competition Protection, the National Insurance regional office, the Court of Appeals, and the High Administrative Court.
+
+===Regional centre===
+[[Gdańsk Voivodeship (1975–1998)|Gdańsk Voivodeship]] was extended in 1999 to include most of former [[Słupsk Voivodeship]], the western part of [[Elbląg Voivodeship]] and [[Chojnice County]] from [[Bydgoszcz Voivodeship]] to form the new [[Pomeranian Voivodeship]].
+The area of the region was thus extended from {{cvt|7394|to|18293|km²|0|abbr=out}} and the population rose from 1,333,800 (1980) to 2,198,000 (2000). By 1998, [[Tricity, Poland|Tricity]] constituted an [[absolute majority]] of the population; almost half of the inhabitants of the new region live in the centre.
+
+===Municipal government===
+Legislative power in Gdańsk is vested in a unicameral Gdańsk [[City council]] (Rada Miasta), which comprises 34 members. Council members are elected directly every four years. Like most legislative bodies, the City Council divides itself into committees which have the oversight of various functions of the city government.
+
+; City Council in 2002–2006:<ref>{{cite web |title=Państwowa Komisja Wyborcza: Wybory samorządowe |url=http://wybory2002.pkw.gov.pl/grada/gw1/w22/m2261/index.html |agency=wybory2002.pkw.gov.pl |access-date=9 October 2015 |archive-date=5 March 2016 |archive-url=https://web.archive.org/web/20160305042012/http://wybory2002.pkw.gov.pl/grada/gw1/w22/m2261/index.html |url-status=live }}</ref>
+*[[Civic Platform]] – 15 seats
+*[[Democratic Left Alliance – Labour Union]] – 6 seats
+*[[Law and Justice]] – 6 seats
+*[[League of Polish Families]] – 5 seats
+*[[Self-Defence of the Republic of Poland]] – 1 seat
+*[[Bogdan Borusewicz]] – 1 seat
+
+; City Council in 2006–2010:<ref>{{cite web |title=Geografia wyborcza – Wybory samorządowe – Państwowa Komisja Wyborcza |url=http://wybory2006.pkw.gov.pl/kbw/wynikiRadaMiastaae6f.html?jdn=226101 |agency=wybory2006.pkw.gov.pl |access-date=9 October 2015 |archive-date=5 March 2016 |archive-url=https://web.archive.org/web/20160305092418/http://wybory2006.pkw.gov.pl/kbw/wynikiRadaMiastaae6f.html?jdn=226101 |url-status=live }}</ref>
+*[[Civic Platform]] – 21 seats
+*[[Law and Justice]] – 13 seats
+
+; City Council in 2010–2014:<ref>{{cite web |title=Wybory Samorządowe 2010 – Geografia wyborcza – Województwo pomorskie – – m. Gdańsk |url=http://wybory2010.pkw.gov.pl/geo/pl/220000/226101.html#tabs-4 |agency=wybory2010.pkw.gov.pl |access-date=9 October 2015 |archive-date=5 March 2016 |archive-url=https://web.archive.org/web/20160305074531/http://wybory2010.pkw.gov.pl/geo/pl/220000/226101.html#tabs-4 |url-status=live }}</ref>
+*[[Civic Platform]] – 26 seats
+*[[Law and Justice]] – 7 seats
+*[[Democratic Left Alliance]] – 1 seat
+
+[[File:Gdansk City Council in 2014 2018.svg|thumb|Gdańsk City Council in 2014–2018]]
+; City Council in 2014–2018:<ref>{{cite web |title=Państwowa Komisja Wyborcza {{!}} Gdańsk |url=http://wybory2014.pkw.gov.pl/pl/wyniki/gminy/view/226101 |agency=wybory2014.pkw.gov.pl |access-date=9 October 2015 |archive-url=https://web.archive.org/web/20141218150437/http://wybory2014.pkw.gov.pl/pl/wyniki/gminy/view/226101 |archive-date=18 December 2014 |url-status=dead}}</ref>
+*[[Civic Platform]] – 22 seats
+*[[Law and Justice]] – 12 seats
+
+; City Council in 2018–2023:<ref>{{cite web |title=Państwowa Komisja Wyborcza {{!}} Gdańsk |url=https://wybory2018.pkw.gov.pl/pl/geografia/226100#results_elect_council |agency=wybory2018.pkw.gov.pl |access-date=2 May 2020 |archive-date=19 November 2020 |archive-url=https://web.archive.org/web/20201119075649/https://wybory2018.pkw.gov.pl/pl/geografia/226100#results_elect_council |url-status=live }}</ref>
+
+*[[Civic Coalition (Poland)|Civic Coalition]] – 15 seats
+*[[Law and Justice]] – 12 seats
+*[[All for Gdańsk]] – 7 seats
+
+===Districts===
+Gdańsk is divided into 34 administrative divisions: 6 {{lang|pl|[[dzielnica]]s}} and 28 {{lang|pl|[[osiedle]]s}}. Gdańsk {{lang|pl|dzielnicas}} include [[Chełm i Gdańsk-Południe|Chełm]], [[Piecki-Migowo]], [[Przymorze Wielkie]], [[Śródmieście, Gdańsk|Śródmieście]], Wrzeszcz Dolny, Wrzeszcz Górny.
+
+{{lang|pl|Osiedles}} are [[Aniołki]], [[Brętowo]], [[Brzeźno]], Jasień, [[Kokoszki]], [[Port Island (Gdańsk)|Krakowiec-Górki Zachodnie]], Letnica, [[Matarnia]], [[Młyniska]], [[Nowy Port]], Oliwa, Olszynka, Orunia-Św. Wojciech-Lipce, Osowa, Przeróbka, [[Przymorze Małe]], [[Rudniki, Gdańsk|Rudniki]], [[Siedlce, Gdańsk|Siedlce]], [[Sobieszewo Island]], Stogi, Strzyża, [[Suchanino]], Ujeścisko-Łostowice, [[VII Dwór]], [[Wzgórze Mickiewicza]], [[Zaspa-Młyniec]], [[Zaspa-Rozstaje]], [[Jelitkowo|Żabianka-Wejhera-Jelitkowo-Tysiąclecia]].
+
+==Education and science==
+[[File:Gmach glowny politechnika.jpg|thumb|Gdańsk University of Technology]]
+[[File:MUG Hospital Bldg 1.jpg|thumb|Gdańsk Medical University]]
+[[File:Hotel Królewski and Filharmonia Bałtycka Gdańsk.jpg|thumb|upright=1.0|[[Polish Baltic Philharmonic]] on the [[Motława]] river ]]
+
+There are 15 higher schools including three universities. In 2001 there were 60,436 students, including 10,439 graduates.
+*[[University of Gdańsk]] (''Uniwersytet Gdański'')
+*[[Gdańsk University of Technology]] (''Politechnika Gdańska'')
+*[[Gdańsk Medical University]] (''Gdański Uniwersytet Medyczny'')
+*Academy of Physical Education and Sport of Gdańsk (''Akademia Wychowania Fizycznego i Sportu im. Jędrzeja Śniadeckiego'')
+*Musical Academy (''Akademia Muzyczna im. Stanisława Moniuszki'')
+*Arts Academy (''Akademia Sztuk Pięknych'')<ref>{{cite web |url=http://www.asp.gda.pl/ |title=Akademia Sztuk Pięknych w Gdańsku |work=asp.gda.pl |access-date=24 July 2009 |archive-date=20 July 2009 |archive-url=https://web.archive.org/web/20090720040330/http://www.asp.gda.pl/ |url-status=live }}</ref>
+*''Institute of Fluid Flow Machinery of the Polish Academy of Sciences – [[:pl:Instytut Maszyn Przepływowych im. Roberta Szewalskiego PAN|Instytut Maszyn Przepływowych im. Roberta Szewalskiego PAN]]<ref>{{cite web |url=https://www.imp.gda.pl/en/ |title=Institute of Fluid Flow Machinery of the Polish Academy of Sciences |work=imp.gda.pl/en |access-date=13 May 2017 |archive-date=16 October 2016 |archive-url=https://web.archive.org/web/20161016050504/http://www.imp.gda.pl/en/ |url-status=live }}</ref>''
+*''Instytut Budownictwa Wodnego PAN''
+*''Ateneum{{spaced ndash}}Szkoła Wyższa''
+*''Gdańska Wyższa Szkoła Humanistyczna''
+*''Gdańska Wyższa Szkoła Administracji''
+*''Wyższa Szkoła Społeczno-Ekonomiczna''
+*''Wyższa Szkoła Turystyki i Hotelarstwa w Gdańsku''
+*''Wyższa Szkoła Zarządzania''
+*[[WSB Universities]] – [[WSB University in Gdańsk]]<ref>[http://www.wsb.pl/english/about-wsb-group/wsb-gdansk WSB University in Gdańsk] {{Webarchive |url=https://web.archive.org/web/20160214134342/http://www.wsb.pl/english/about-wsb-group/wsb-gdansk |date=14 February 2016 }} – WSB Universities</ref>
+
+===Scientific and regional organizations===
+*[[Gdańsk Scientific Society]]
+*[[Baltic Institute]] (Instytut Bałtycki), established 1925 in [[Toruń]], since 1946 (?) in Gdańsk
+*TNOiK – Towarzystwo Naukowe Organizacji i Kierowania (Scientific Society for Organization and Management) O/Gdańsk
+*IBNGR – Instytut Badań nad Gospodarką Rynkową (The Gdańsk Institute for [[Market economy|Market Economics]])<ref>{{cite web |url=http://www.ibngr.edu.pl/english/index2.htm |archive-url=https://web.archive.org/web/20080209112613/http://www.ibngr.edu.pl/english/index2.htm |archive-date=9 February 2008 |title=The Gdańsk Institute for Market Economics |access-date=25 July 2009}}</ref>
+
+==International relations==
+
+===Twin towns – sister cities===
+{{See also|List of twin towns and sister cities in Poland}}
+Gdańsk is [[Sister cities|twinned]] with:<ref name=twins>{{cite web |title=Partner Cities |url=https://www.gdansk.pl/en/about-gdansk/partner-cities,a,3015 |website=gdansk.pl |publisher=Gdańsk |access-date=2020-08-02 |archive-date=11 October 2021 |archive-url=https://web.archive.org/web/20211011013151/https://www.gdansk.pl/en/about-gdansk/partner-cities,a,3015 |url-status=live }}</ref>
+{{div col|colwidth=20em}}
+*{{flagicon|DEN}} [[Helsingør]], Denmark
+*{{flagicon|GER}} [[Bremen]], Germany
+*{{flagicon|USA}} [[Cleveland, Ohio|Cleveland]], United States
+*{{flagicon|SWE}} [[Kalmar]], Sweden
+<!--Marseille - not twinning-->
+*{{flagicon|FRA}} [[Nice]], France
+*{{flagicon|KAZ}} [[Nur-Sultan]], Kazakhstan
+<!--Odessa - not twinning-->
+*{{flagicon|NED}} [[Rotterdam]], Netherlands
+*{{flagicon|UK}} [[Metropolitan Borough of Sefton|Sefton]], England, United Kingdom
+*{{flagicon|FIN}} [[Turku]], Finland
+*{{flagicon|LTU}} [[Vilnius]], Lithuania
+{{div col end}}
+
+===Former twin towns===
+*{{flagicon|RUS}} [[Kaliningrad]], Russia
+*{{flagicon|RUS}} [[Saint Petersburg]], Russia
+
+On 3 March 2022, Gdańsk City Council passed a unanimous resolution to terminate the cooperation with the Russian cities of Kaliningrad and Saint Petersburg as a response to the [[2022 Russian invasion of Ukraine|Russian invasion of Ukraine]].<ref>{{cite web| url = https://www.trojmiasto.pl/wiadomosci/Koniec-wspolpracy-Trojmiasta-z-Rosja-n164797.html |title=Trójmiasto zrywa współpracę z rosyjskimi miastami | access-date = 3 March 2022}}</ref><ref>{{cite web| url = https://wiadomosci.wp.pl/trojmiasto/gdansk-zrywa-wspolprace-z-rosyjskimi-miastami-na-sali-byl-konsul-ukrainy-6743312033806944a |language = pl |title=Gdańsk zrywa współpracę z rosyjskimi miastami. Na sali był konsul Ukrainy | access-date = 4 March 2022}}</ref>
+
+===Partnerships and cooperation===
+Gdańsk also cooperates with:<ref name=twins/>
+*{{flagicon|BEL}} [[Ghent]], Belgium<ref>{{cite news |url=https://www.gdansk.pl/urzad-miejski/biuro-prezydenta/miasta-wspolpracujace,a,1621 |title=Miasta współpracujące |access-date=17 August 2020 |archive-date=18 September 2020 |archive-url=https://web.archive.org/web/20200918150542/https://www.gdansk.pl/urzad-miejski/biuro-prezydenta/miasta-wspolpracujace,a,1621 |url-status=live }}</ref>
+*{{flagicon|FRA}} [[Le Havre]], France<ref name="Le Havre twins">{{cite web |url=http://lehavre.fr/dossier/le-havre-ville-partenaire |title=Le Havre – Les villes jumelées |access-date=7 August 2013 |work=City of Le Havre |language=fr |trans-title=Le Havre – Twin towns |archive-url=https://web.archive.org/web/20130729215238/http://lehavre.fr/dossier/le-havre-ville-partenaire |archive-date=29 July 2013}}</ref>
+*{{flagicon|FRA}} [[Marseille]], France
+*{{flagicon|UKR}} [[Odessa]], Ukraine
+
+==Gallery==
+<gallery mode="packed">
+File:Bazylika Mariacka W Gdansku (153003107).jpeg|[[Gdańsk Town Hall]]
+File:Gdańsk, Długie Pobrzeże (HB1).jpg|Długie Pobrzeże
+File:Gdańsk, Brama Zielona (HB1).jpg|[[Green Gate]]
+File:Gdansk tourist pictures 2009 0034.JPG|Old Town
+File:Architectural Detail - Old Town - Gdansk - Poland - 07 (28054483266).jpg|Mariacka Street
+File:Gdańsk Główne Miasto - Długa Street (131).jpg|Długa Street
+File:Gdańsk, Długa 35.JPG|''Lion's Castle'' tenement house
+File:John III Sobieski Monument in Gdańsk 2669.JPG|[[John III Sobieski Monument in Gdańsk|King John III Sobieski Monument]]
+File:Monumento Neptuno, Gdansk, Polonia, 2013-05-20, DD 01.jpg|[[Neptune's Fountain, Gdańsk|Neptune's Fountain]]
+File:Puerta Dorada, Gdansk, Polonia, 2013-05-20, DD 01.jpg|[[Golden Gate (Gdańsk)|Golden Gate (''Złota Brama'')]]
+File:Gdańsk-Oliwa, bazylika archikatedralna(Aw58).JPG|[[Oliwa Cathedral]]
+File:Westerplatte-Denkmal Danzig 2010.jpg|[[Westerplatte Monument]]
+File:SM Gdańsk Ratusz Staromiejski (0) ID 635538.jpg|Old Town Hall
+File:Gdansk Wielki Mlyn2014.jpg|Great Mill (left) and Millers' Guild House (right)
+File:Twierdza Wisłoujście, Gdańsk.jpg|[[Wisłoujście Fortress]]
+File:Danzig Johanniskirche.jpg|Church of St. John
+File:Wikimania 2010-07-11 Gdansk-by-RaBoe-039.jpg|Rybackie Pobrzeże
+File:635495 Gdańsk Wieża Więzienna 03.JPG|Gaol Tower
+File:Danzig-Werftarbeiterdenkmal.jpg|[[Monument to the Fallen Shipyard Workers of 1970|Monument to the Fallen Shipyard Workers]]
+File:Danzig, Altes Müllergewerkshaus.jpg|Millers' Guild House
+File:SM Gdańsk Kościół św Barbary (1) ID 635439.jpg|Saint Barbara church
+File:Gdansk Baszta Labedz.jpg|Swan Tower
+File:Forum Gdańsk-.jpg|Forum Gdańsk shopping centre
+File:Gdańsk, pomnik Jana Heweliusza.jpg|[[Jan Heweliusz]] Monument
+File:Maersk Elba in Gdańsk.JPG|[[Maersk]] container ship at [[DCT Gdańsk]]
+File:UG - WPiA ubt.jpeg|[[Gdańsk University]] – Faculty of Law and Administration
+File:Przymorze-obroncow wybrzeza nowe bloki.jpg|Modern blocks in Obrońców Wybrzeża Street
+File:Gdansk Granary Island 2019.jpg|The Granary Island
+File:Gdańsk hotel Hilton.jpg|Gdańsk Hilton Hotel
+File:European Solidarity Centre 2015 003.jpg|[[European Solidarity Centre]]
+File:Gdańsk, Długi Targ (HB1).jpg|Town hall and Długi Targ
+File:Olivia Star.jpg|Olivia Business Centre
+</gallery>
+
+==Population after World War II==
+{{Historical populations
+|1890<ref name=Rad>{{cite web |url=https://treemagic.org/rademacher/www.verwaltungsgeschichte.de/dan_danzig.html |title=Verwaltungsgeschichte.de |author=Michael Rademacher |language=de |access-date=7 June 2020 |archive-date=7 January 2020 |archive-url=https://web.archive.org/web/20200107010600/http://treemagic.org/rademacher/www.verwaltungsgeschichte.de/dan_danzig.html |url-status=live }}</ref>|120338
+|1910<ref name=Rad/>|170337
+|1929<ref name=Rad/>|256403
+|1945<ref name=Byk>{{cite book |title=The Rehabilitation and Ethnic Vetting of the Polish Population in the Voivodship of Gdańsk after World War II |author=Sylwia Bykowska |publisher=Peter-Lang-Verlagsgruppe |page=116 |year=2020 |isbn=978-3-631-67940-1}}</ref>|139,078
+|1946|117894
+|1950|194633
+|1960|286940
+|1970|365600
+|1980|456707
+|21=1990|22=465143|25=2000|26=462995|29=2010|30=456967|35=2020|36=470805}}
+
+{{Further|Repatriation of Poles (1944–1946)|Repatriation of Poles (1955–1959)|Flight and expulsion of Germans from Poland during and after World War II}}
+
+The 1923 census conducted in the Free City of Danzig indicated that of all inhabitants, 95% were German, and 3% were Polish and Kashubian. Subsequent inter-war statistics are subject of dispute.{{Explain|date=April 2021}} The end of [[World War II]] is a significant break in continuity with regard to the inhabitants of Gdańsk.
+
+German citizens began to flee en masse as the Soviet [[Red Army]] advanced, composed of both spontaneous flights driven by rumors of [[Soviet war crimes|Soviet atrocities]], and organised evacuation starting in the summer of 1944 which continued into the spring of 1945.<ref name=Kacowicz100101>Arie Marcelo Kacowicz, Pawel Lutomski, ''Population resettlement in international conflicts: a comparative study'', Lexington Books, 2007, pp. 100, 101 {{ISBN|0-7391-1607-X}} [https://www.google.com/books?id=ovck_g0xwX0C&pg=PA103&dq=expulsion+germans+poland&lr=&as_brr=3#PPA100,M1] {{Webarchive|url=https://web.archive.org/web/20210308061435/https://books.google.de/books?id=ovck_g0xwX0C&pg=PA103&dq=expulsion+germans+poland&lr=&as_brr=3&redir_esc=y#PPA100,M1 |date=8 March 2021 }}</ref> Approximately 1% (100,000) of the German civilian population residing east of the [[Oder–Neisse line]] perished in the fighting prior to the surrender in May 1945.<ref>Spieler, Silke. ed. ''Vertreibung und Vertreibungsverbrechen 1945–1948''. Bericht des Bundesarchivs vom 28. Mai 1974. Archivalien und ausgewählte Erlebnisberichte. Bonn: Kulturstiftung der deutschen Vertriebenen. (1989). {{ISBN|3-88557-067-X}}. pp. 23–41</ref> German civilians were also sent as "reparations labour" to the [[Soviet Union]].<ref>Pavel Polian-''Against Their Will: The History and Geography of Forced Migrations in the USSR'' Central European University Press 2003 {{ISBN|963-9241-68-7}} pp. 286-293</ref>{{sfn|Kamusella|2004|p=28}}
+
+Poles from other parts of Poland replaced the former German-speaking population, with the first settlers arriving in March 1945.<ref name=Curp42>{{cite book |title=A clean sweep?: the politics of ethnic cleansing in western Poland, 1945-1960 |first=T. David |last=Curp |publisher=Boydell & Brewer |year=2006 |isbn=1-58046-238-3 |page=42 |url=https://www.google.de/books?id=ARxnK1u_WOEC&pg=PA42 |access-date=2009-08-04 |archive-date=28 January 2015 |archive-url=https://web.archive.org/web/20150128133042/http://www.google.de/books?id=ARxnK1u_WOEC&pg=PA42 |url-status=live }}</ref> On 30 March 1945, the [[Gdańsk Voivodeship (1945–1975)|Gdańsk Voivodeship]] was established as the first administrative Polish unit in the [[Recovered Territories]].<ref>{{cite book |title=A history of modern Poland: from the foundation of the State in the First World War to the present day |first=Hans |last=Roos |publisher=Knopf |year=1966 |url=https://www.google.de/books?id=EfpoAAAAMAAJ&q=%22recovered+territories%22+gdansk+OR+danzig&dq=%22recovered+territories%22+gdansk+OR+danzig&lr= |access-date=2009-08-04 |archive-date=8 March 2013 |archive-url=https://web.archive.org/web/20130308120817/http://www.google.de/books?id=EfpoAAAAMAAJ&q=%22recovered+territories%22+gdansk+OR+danzig&dq=%22recovered+territories%22+gdansk+OR+danzig&lr= |url-status=live }}</ref> As of 1 November 1945, around 93,029 Germans remained within the city limits.<ref name=Byk/> The locals of German descent who declared Polish nationality were permitted to remain, as of 1 January 1949 13,424 persons who had received Polish citizenship in a post-war "ethnic vetting" process lived in Gdańsk.<ref>{{cite book |title=The Rehabilitation and Ethnic Vetting of the Polish Population in the Voivodship of Gdańsk after World War II |first=Sylwia |last=Bykowska |publisher=Peter Lang |page=239 |year=2020 |isbn=978-3-631-67940-1}}</ref>
+
+The settlers can be grouped according to their background:
+*Poles that had been freed from [[forced labor in Nazi Germany]]<ref name=Cordell168>Karl Cordell, Andrzej Antoszewski, ''Poland and the European Union'', 2000, p. 168, {{ISBN|0-415-23885-4}}, {{ISBN|978-0-415-23885-4}}: gives 4.55 million in the first years</ref><ref name=Hoffmann142/>
+*[[Polish population transfers (1944–1946)|Repatriates]]: Poles expelled from the areas east of the new Polish-Soviet border. This included assimilated minorities such as [[Armenians in Poland|the Polish-Armenian community]]<ref name=Cordell168/><ref name=Hoffmann142>{{Cite book |url=https://books.google.com/books?id=Js8XWnqR6HMC&q=vertreibung+polen&pg=PA140 |title=Dierk Hoffmann, Michael Schwartz, ''Geglückte Integration?'', p. 142 |isbn=9783486645033 |last1=Hoffmann |first1=Dierk |last2=Schwartz |first2=Michael |year=1999}}</ref>
+*Poles incl. [[Kashubians]] relocating from nearby villages and small towns
+*Settlers from central Poland migrating voluntarily<ref name=Cordell168/>
+*non-Poles forcibly resettled during the [[Operation Vistula]] in 1947. Large numbers of Ukrainians were forced to move from south-eastern Poland under a 1947 Polish government operation aimed at dispersing, and therefore assimilating, those Ukrainians who had not been expelled eastward already, throughout the newly acquired territories. Belarusians living around the area around Białystok were also pressured into relocating to the formerly German areas for the same reasons. This scattering of members of non-Polish ethnic groups throughout the country was an attempt by the Polish authorities to dissolve the unique ethnic identity of groups like the Ukrainians, Belarusians and [[Lemkos]],<ref>Thum, p. 129</ref> and broke the proximity and communication necessary for strong communities to form.
+*[[Jews|Jewish]] [[Holocaust]] survivors, most of them [[Polish population transfers (1944–1946)|Polish repatriates]] from the [[Eastern Borderlands]].<ref>Selwyn Ilan Troen, Benjamin Pinkus, Merkaz le-moreshet Ben-Guryon, ''Organizing Rescue: National Jewish Solidarity in the Modern Period'', pp. 283-284, 1992, {{ISBN|0-7146-3413-1}}, {{ISBN|978-0-7146-3413-5}}</ref>
+*[[Greeks in Poland|Greeks]] and [[Macedonians (ethnic group)|Macedonians]], [[refugees of the Greek Civil War]].<ref>{{cite book |authors=Grzegorz Waligóra, Łukasz Kamiński |date=2010 |title=NSZZ Solidarność, 1980-1989: Wokół Solidarności |url=https://www.google.com.au/books/edition/NSZZ_Solidarno%C5%9B%C4%87_1980_1989_Wok%C3%B3%C5%82_Sol/c_M-AQAAIAAJ?hl=en&gbpv=0&bsq=grecy%20do%20gda%C5%84ska%20%20wojn%C4%85%20domow%C4%85 |location=Warszawa (Warsaw) |publisher=Instytut Pamięci Narodowej, Komisja Ścigania Zbrodni Przeciwko Narodowi Polskiemu |page=463 |isbn=9788376291765 |language=pl |access-date=28 September 2021 |archive-date=1 February 2022 |archive-url=https://web.archive.org/web/20220201032230/https://www.google.com.au/books/edition/NSZZ_Solidarno%C5%9B%C4%87_1980_1989_Wok%C3%B3%C5%82_Sol/c_M-AQAAIAAJ?hl=en&gbpv=0&bsq=grecy+do+gda%C5%84ska++wojn%C4%85+domow%C4%85 |url-status=live }}</ref>
+
+==Notable people==
+{{main|List of people from Gdańsk}}
+
+==See also==
+{{Portal|Poland|European Union}}
+*[[Tourism in Poland]]
+*[[List of honorary citizens of Gdańsk]]
+*[[764 Gedania]] – a minor planet orbiting the Sun
+*[[Danzig Highflyer]]
+*[[Father Eugeniusz Dutkiewicz SAC Hospice]]
+*[[Kashubians]]
+*[[Kursenieki]]
+*[[List of neighbourhoods of Gdańsk]]
+*[[St. Mary's Church, Gdańsk]]
+*[[Laznia Centre for Contemporary Art]]
+*[[Ronald Reagan Park]]
+*''[[Live in Gdańsk]]''
+
+==Notes==
+{{notelist}}
+
+==References==
+
+===Citations===
+{{Reflist|30em}}
+
+===Bibliography===
+{{Refbegin}}
+*{{Cite book |last=Kimmich |first=Christoph M |title=The free city: Danzig and German foreign policy, 1919–1934 |url=https://books.google.com/books?id=-3VxQgAACAAJ |access-date=8 March 2010 |year=1968 |publisher=[[Yale University Press]], New Haven, Connecticut |ref=Kimmich68 }}
+*{{Cite book |last=Rudziński |first=Grzegorz |title=Gdańsk |url=https://books.google.com/books?id=9AKfPQAACAAJ |access-date=26 February 2010 |date=1 March 2001 |publisher=Bonechi |isbn=978-88-476-0517-6 |ref=Rudziński69 |archive-date=11 October 2013 |archive-url=https://web.archive.org/web/20131011064134/http://books.google.com/books?id=9AKfPQAACAAJ |url-status=live }}
+*{{Cite book |last=Simson |first=Paul |title=Geschichte Der Stadt Danzig |url=https://books.google.com/books?id=DSmxtiBx4CoC |access-date=26 February 2010 |date=October 2009 |publisher=BiblioBazaar, LLC |isbn=978-1-115-53256-3 |ref=Simson70 |archive-date=11 October 2013 |archive-url=https://web.archive.org/web/20131011050903/http://books.google.com/books?id=DSmxtiBx4CoC |url-status=live }}
+{{Refend}}
+
+==External links==
+{{Commons|Gdańsk}}
+{{Wikisource1911Enc|Danzig}}
+{{Wikivoyage|Gdańsk}}
+{{Wiktionary|Gdańsk}}
+*{{Official website}}
+*[https://pomorskie.travel//en The official tourist service of the Marshal's Office of the Pomeranian Voivodeship]
+*[http://www.wirtualny.gdansk.pl/ Virtual Gdańsk] {{in lang|pl}}
+*[https://www.danzig.info/ Danzig] {{in lang|de}}
+*[https://www.gdansk.de/ Gdańsk] {{in lang|de}}
+*[https://ej2020.org/ European Jamboree 2020] {{Webarchive |url=https://web.archive.org/web/20190320204235/https://ej2020.org/ |date=20 March 2019 }}
+*[https://www.theglobeandmail.com/life/the-power-of-gdansk/article18265633/ The power of Gdansk] article at [[The Globe and Mail]]
+*[https://culture.pl/en/article/7-reasons-to-fall-in-love-with-gdansk 7 Reasons to Fall in Love with Gdańsk]
+
+{{Navboxes
+|title= Articles related to Gdańsk
+|list={{Gdansk}}
+{{Principal cities of Poland}}
+{{Pomeranian Voivodeship|state=autocollapse}}
+{{Hanseatic League}}
+{{Mayors of Gdańsk}}
+{{Polish coast|state=autocollapse}}
+{{Princess of Asturias Award for Concord}}
+}}
+{{Authority control}}
+
+{{DEFAULTSORT:Gdansk}}
+[[Category:Gdańsk| ]]<!--leave the empty space as standard-->
+[[Category:980s establishments]]
+[[Category:Populated places established in the 10th century]]
+[[Category:Members of the Hanseatic League]]
+[[Category:City counties of Poland]]
+[[Category:Cities and towns in Pomeranian Voivodeship]]
+[[Category:Port cities and towns of the Baltic Sea]]
+[[Category:Geographical naming disputes]]
+[[Category:Holocaust locations in Poland]]
+[[Category:Nazi war crimes in Poland]]
