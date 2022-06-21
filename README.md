@@ -1,6 +1,6 @@
 # mwparallelparserfromgary
 
-This is a Python package for MediaWiki_wikicode parallel parsing
+This is a Python package for MediaWiki_wikicode parallel parsing.
 
 # Basic usage
 ```python
