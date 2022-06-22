@@ -59,11 +59,21 @@ class Parser:
         text = self.__parse_line_recursively(text, line)
         return self.__append_tags('', text, line)
 
-    def __add_tag(self):
-        pass
+    def __add_tag(self, text, opened_pos, closed_pos, opening, closing, line, start, continuation):
+        tag_content = text[opened_pos:closed_pos]
+        tag_content_parsed = tag_content
+        if TAG_NAME[opening] not in NONPARSABLE_TAG_NAMES:
+            tag_content_parsed = self.__parse_line_recursively(
+                tag_content, line, start + opened_pos - len(opening))
 
-    def __append_tags(self, tag_type, content, line=0, start=0):
-        tag_content, tag = Tag.create_tag(tag_type, start, line, content)
+        tag_content_replacement = self.__append_tags(
+            TAG_NAME[opening], tag_content_parsed, line, start, continuation)
+
+        text = text.replace(opening + tag_content + closing, tag_content_replacement)
+        return text, opened_pos - len(opening) + len(tag_content_replacement)
+
+    def __append_tags(self, tag_type, content, line=0, start=0, continuation=''):
+        tag_content, tag = Tag.create_tag(tag_type, start, line, content, continuation)
         if tag_type in META_TAGS:
             self.tags_meta.append(tag)
         else:
@@ -75,7 +85,6 @@ class Parser:
         i = 0
         opened_tags = []
         opened_pos = len(text)
-        closed_pos = len(text)
         something_happened = False
         while i < len(text):
             # sprawdzanie, czy to może być domknięcie innego tagu
@@ -93,21 +102,16 @@ class Parser:
                 opening = opened_tags[0]
                 closed_tag = TAG_ENDINGS[opening]
                 if text[i:i + len(closed_tag)] == closed_tag:
-                    # zamiana tekstu na znacznik i dodanie tagu
-                    closed_pos = i
-                    tag_content = text[opened_pos:i]
 
-                    # jeśli tag to np. preformatted
-                    tag_content_parsed = tag_content
-                    if TAG_NAME[opening] not in NONPARSABLE_TAG_NAMES:
-                        tag_content_parsed = \
-                            self.__parse_line_recursively(tag_content, line, start+opened_pos - len(opening))
+                    continuation_end = i+len(closed_tag)
+                    for j in range(i+len(closed_tag), len(text)):
+                        if not text[j].isalpha():
+                            continuation_end = j
+                            break
+                    continuation = text[i+len(closed_tag):continuation_end]
 
-                    tag_content_replacement = \
-                        self.__append_tags(TAG_NAME[opening], tag_content_parsed, line, start + opened_pos - len(opening))
-
-                    text = text.replace(opening + tag_content + closed_tag, tag_content_replacement)
-                    i = opened_pos - len(opening) + len(tag_content_replacement)
+                    text, i = self.__add_tag(
+                        text, opened_pos, i, opening, closed_tag, line, start + opened_pos - len(opening), continuation)
                     opened_pos = len(text)
                     opened_tags = []
                     something_happened = True
@@ -132,19 +136,7 @@ class Parser:
         # dodawanie tagu, jeśli nie znaleziono zamknięcia tagu
         if len(opened_tags) > 0:
             opening = opened_tags[0]
-            closed_pos = i
-            tag_content = text[opened_pos:]
-
-            # jeśli tag to np. preformatted
-            tag_content_parsed = tag_content
-            if TAG_NAME[opening] not in NONPARSABLE_TAG_NAMES:
-                tag_content_parsed = \
-                    self.__parse_line_recursively(tag_content, line, start + opened_pos - len(opening))
-
-            tag_content_replacement = \
-                self.__append_tags(TAG_NAME[opening], tag_content_parsed, line, start + opened_pos - len(opening))
-
-            text = text.replace(opening + tag_content, tag_content_replacement)
+            text, i = self.__add_tag(text, opened_pos, i, opening, '', line, start + opened_pos - len(opening), '')
         return text
 
     def parse_text(self, text):
@@ -160,16 +152,18 @@ class Parser:
                 self.lines.pop(i)
             else:
                 i += 1
+        i = 0
         while i < len(self.tags):
             if self.tags[i].type == '':
                 self.tags.pop(i)
-            i += 1
-        return {'lines': self.lines, 'tags': self.get_tags()}
+            else:
+                i += 1
+        return {'lines': self.lines, 'tags': self.get_tags(), 'meta_tags': self.tags_meta}
 
     def get_tags(self):
         return [str(tag) for tag in self.tags]
 
-    def parse_file(self, filename):
+    def parse_file(self, filename, encoding="utf8"):
         self.tags = []
         with open(filename, 'r') as f:
             text = f.read()
@@ -202,9 +196,8 @@ if __name__ == '__main__':
 
     with open('tests/wikicode.txt', encoding="utf8") as f:
         wikicode = f.read()
-    start = time.time()
     parser.parse_text(wikicode)
-    print(f"parsed in {time.time()-start}s")
+    parser.save()
     parser.print_tags_meta()
     parser.print_tags()
     parser.print_lines()
